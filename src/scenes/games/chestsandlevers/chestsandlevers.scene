@@ -1,0 +1,391 @@
+{
+    "id": "b547455c-f768-48c2-b216-4b1ad2c4d597",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "dontgibthebaby/assets/speechStuff/speech-asset-pack.json",
+            "dontgibthebaby/assets/moneystuff/chests.json",
+            "dontgibthebaby/assets/meter/meter-asset-pack.json",
+            "dontgibthebaby/assets/interactives/levers.json",
+            "dontgibthebaby/assets/interactives/crane.json",
+            "dontgibthebaby/assets/explosions/explosives.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "ChestsAndLevers",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "TileSprite",
+            "id": "5a43b8fe-6d2c-4e88-bc0c-e92bd4560165",
+            "label": "stage",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "Background wall tiles.png",
+                "frame": "Floor 01"
+            },
+            "x": 696,
+            "y": 798,
+            "scaleX": 0.3,
+            "scaleY": 0.3,
+            "width": 7290,
+            "height": 1410
+        },
+        {
+            "type": "TileSprite",
+            "id": "a1b4dab9-a988-49f1-9db9-1065bedabbb4",
+            "label": "wall_Tile_Duble_02",
+            "components": [],
+            "texture": {
+                "key": "Background wall tiles.png",
+                "frame": "Wall Tile Duble 02"
+            },
+            "x": 742,
+            "y": 176,
+            "scaleX": 0.3,
+            "scaleY": 0.3,
+            "width": 6708,
+            "height": 3360
+        },
+        {
+            "prefabId": "0da2e196-f61d-44d0-ad37-06347f20b181",
+            "id": "e02e44cb-75fc-42fe-bdd4-afabc87e37b9",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "meter",
+            "scope": "CLASS",
+            "components": [],
+            "x": 483,
+            "y": 132,
+            "nestedPrefabs": []
+        },
+        {
+            "type": "Sprite",
+            "id": "9ea7758a-1564-46d5-893d-de423f0f273c",
+            "label": "explosive1",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "digitalDynamite"
+            },
+            "x": 180,
+            "y": 533,
+            "scaleX": 0.7739385150241264,
+            "scaleY": 0.7739385150241264,
+            "visible": false
+        },
+        {
+            "type": "Sprite",
+            "id": "97505f98-6641-4c53-9883-86055e5c1abb",
+            "label": "explosive2",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "digitalDynamite"
+            },
+            "x": 810,
+            "y": 533,
+            "scaleX": 0.7739385150241264,
+            "scaleY": 0.7739385150241264,
+            "visible": false
+        },
+        {
+            "type": "Sprite",
+            "id": "9e420ca1-b09a-4640-9471-9bb8d9c2f9f2",
+            "label": "explosive3",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "digitalDynamite"
+            },
+            "x": 1460,
+            "y": 533,
+            "scaleX": 0.7739385150241264,
+            "scaleY": 0.7739385150241264,
+            "visible": false
+        },
+        {
+            "prefabId": "0e5cb0c4-134f-47d5-b243-d6be9c8ea1ce",
+            "id": "5373a977-3900-4a02-8063-71b94073f6ca",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "crane1",
+            "scope": "CLASS",
+            "components": [],
+            "x": 172,
+            "y": -2050,
+            "nestedPrefabs": []
+        },
+        {
+            "prefabId": "0e5cb0c4-134f-47d5-b243-d6be9c8ea1ce",
+            "id": "59e7d512-88b4-414d-b7b1-83c3cfcd7517",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "crane2",
+            "scope": "CLASS",
+            "components": [],
+            "x": 805,
+            "y": -2050,
+            "nestedPrefabs": []
+        },
+        {
+            "prefabId": "0e5cb0c4-134f-47d5-b243-d6be9c8ea1ce",
+            "id": "9bb9b83c-7308-4367-83dc-90e4dac3774f",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "crane3",
+            "scope": "CLASS",
+            "components": [],
+            "x": 1438,
+            "y": -2050,
+            "nestedPrefabs": []
+        },
+        {
+            "type": "Sprite",
+            "id": "ed00dadb-92db-440d-8e19-f17c6d082f1a",
+            "label": "contestant",
+            "scope": "CLASS",
+            "components": [
+                "Gib"
+            ],
+            "Gib.idle": "man_idle",
+            "texture": {
+                "key": "manidle",
+                "frame": "__office_worker_idle_000.png"
+            },
+            "x": 1149,
+            "y": 576,
+            "flipX": true
+        },
+        {
+            "type": "Sprite",
+            "id": "b82d2134-22fc-4d3d-a494-783b4739c2b8",
+            "label": "host",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "hostidle",
+                "frame": "hostidle_000.png"
+            },
+            "x": 378,
+            "y": 607
+        },
+        {
+            "type": "Image",
+            "id": "a3e6bead-3c7a-4254-9705-8a6119212278",
+            "label": "lever1",
+            "scope": "CLASS",
+            "components": [
+                "leverForCraneInChestsAndLevers"
+            ],
+            "texture": {
+                "key": "lever1",
+                "frame": "lever1a"
+            },
+            "x": 120,
+            "y": 814,
+            "scaleX": 0.5391861747746001,
+            "scaleY": 0.5391861747746001
+        },
+        {
+            "type": "Image",
+            "id": "87cbb586-4060-4ee5-9733-c66751f6cc8e",
+            "label": "lever2",
+            "scope": "CLASS",
+            "components": [
+                "leverForCraneInChestsAndLevers"
+            ],
+            "texture": {
+                "key": "lever1",
+                "frame": "lever1a"
+            },
+            "x": 822,
+            "y": 814,
+            "scaleX": 0.5391861747746001,
+            "scaleY": 0.5391861747746001
+        },
+        {
+            "type": "Image",
+            "id": "cb04d034-50b3-47b7-97c0-9cfa79e08bcf",
+            "label": "lever3",
+            "scope": "CLASS",
+            "components": [
+                "leverForCraneInChestsAndLevers"
+            ],
+            "texture": {
+                "key": "lever1",
+                "frame": "lever1a"
+            },
+            "x": 1525,
+            "y": 814,
+            "scaleX": 0.5391861747746001,
+            "scaleY": 0.5391861747746001
+        },
+        {
+            "type": "Image",
+            "id": "4c90a557-cf46-4849-8976-abe472b10b57",
+            "label": "light2",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 1201,
+            "y": 422,
+            "angle": 16
+        },
+        {
+            "type": "Image",
+            "id": "6e42e86f-d189-456c-8421-712485866aea",
+            "label": "light1",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 415,
+            "y": 402,
+            "angle": -20,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "72a8620f-b673-4bfe-95f6-cad6ac4f77b4",
+            "label": "leftDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 369,
+            "y": 451,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "5c9900cd-eed1-42c4-af21-d00fe9aba655",
+            "label": "rightDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 1253,
+            "y": 451,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "f0a845de-369a-46da-866b-dcf915e3803f",
+            "label": "rightCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 81,
+            "y": 431,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147
+        },
+        {
+            "type": "Image",
+            "id": "03fb4330-15ce-49c1-a449-fd591890fd70",
+            "label": "leftCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 1523,
+            "y": 428,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147,
+            "flipX": true
+        },
+        {
+            "type": "Sprite",
+            "id": "9c97cd1e-8403-4d62-aca1-363ce038c3a9",
+            "label": "bigHost",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "hostidle",
+                "frame": "hostidle_000.png"
+            },
+            "x": 377,
+            "y": 921,
+            "scaleX": 2.5,
+            "scaleY": 2.5
+        },
+        {
+            "type": "Image",
+            "id": "3455584e-8ec4-4698-80e2-0e98fafd30fe",
+            "label": "speechbox",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "panel_09"
+            },
+            "x": 1198,
+            "y": 708,
+            "scaleX": 1.5447342746466406,
+            "scaleY": 2.2069147135240197
+        },
+        {
+            "type": "Image",
+            "id": "aa95e5db-92b6-4b59-9149-44e841355587",
+            "label": "connector",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "connector_03"
+            },
+            "x": 683,
+            "y": 679,
+            "scaleX": 1.5773126392516716,
+            "scaleY": 1.5773126392516716,
+            "flipX": true
+        },
+        {
+            "type": "Text",
+            "id": "4049e125-fe66-4bbf-ae6f-e556cf489371",
+            "label": "hostText",
+            "scope": "CLASS",
+            "components": [],
+            "x": 870,
+            "y": 525,
+            "text": "There are a total of\nten chests.",
+            "fontFamily": "pricedown",
+            "fontSize": "72px",
+            "color": "#36ca0bff",
+            "stroke": "#00ff00",
+            "backgroundColor": "#ffffff00",
+            "shadow.offsetX": 5,
+            "shadow.offsetY": 5,
+            "shadow.stroke": true,
+            "shadow.fill": true,
+            "shadow.color": "#fffd04ff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

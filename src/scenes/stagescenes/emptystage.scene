@@ -1,0 +1,272 @@
+{
+    "id": "58728854-7963-42e3-91bd-05496310023b",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "dontgibthebaby/assets/interactives/crane.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "EmptyStage",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "6945e7f6-06d6-47b9-a004-44bd689c4b10",
+            "label": "seats_with_audience",
+            "components": [],
+            "texture": {
+                "key": "seats_with_audience"
+            },
+            "x": 755.125,
+            "y": 443,
+            "scaleX": 0.8182269302500232,
+            "scaleY": 0.8182269302500232
+        },
+        {
+            "type": "Image",
+            "id": "0e2b0b22-4ad9-407c-a2ee-524a892cbe01",
+            "label": "stage",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "stage"
+            },
+            "x": 755.125,
+            "y": 831
+        },
+        {
+            "type": "Image",
+            "id": "4c90a557-cf46-4849-8976-abe472b10b57",
+            "label": "overhead_light",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 1201,
+            "y": 420,
+            "angle": 16
+        },
+        {
+            "type": "Image",
+            "id": "6e42e86f-d189-456c-8421-712485866aea",
+            "label": "overhead_light_1",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 415,
+            "y": 400,
+            "angle": -20,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "0684f602-ed23-44d2-a2c1-83b3d1d2292b",
+            "label": "coinMountain",
+            "components": [],
+            "texture": {
+                "key": "coinMountain"
+            },
+            "x": 1215,
+            "y": 644
+        },
+        {
+            "type": "Image",
+            "id": "76601cfc-32ac-42ad-b2b9-e127ec206a27",
+            "label": "coinMountain_1",
+            "components": [],
+            "texture": {
+                "key": "coinMountain"
+            },
+            "x": 1384,
+            "y": 639
+        },
+        {
+            "type": "Image",
+            "id": "7de94110-1caf-4097-924f-40b33ac1a9fb",
+            "label": "diamonds_group_01",
+            "components": [],
+            "texture": {
+                "key": "diamonds_group_01"
+            },
+            "x": 1223,
+            "y": 748
+        },
+        {
+            "prefabId": "22e6e907-999d-416b-bfea-6ab05777204a",
+            "id": "9bddb41b-974e-4b78-84e1-80ae5b132a1e",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "spikePanel1",
+            "scope": "CLASS",
+            "components": [],
+            "x": 621,
+            "y": 496,
+            "nestedPrefabs": []
+        },
+        {
+            "type": "Sprite",
+            "id": "b82d2134-22fc-4d3d-a494-783b4739c2b8",
+            "label": "host",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "hostidle",
+                "frame": "hostidle_000.png"
+            },
+            "x": 334,
+            "y": 580
+        },
+        {
+            "type": "Sprite",
+            "id": "ed00dadb-92db-440d-8e19-f17c6d082f1a",
+            "label": "man",
+            "scope": "CLASS",
+            "components": [
+                "Gib"
+            ],
+            "Gib.idle": "man_idle",
+            "texture": {
+                "key": "manidle",
+                "frame": "__office_worker_idle_000.png"
+            },
+            "x": 650,
+            "y": 575
+        },
+        {
+            "type": "Image",
+            "id": "72a8620f-b673-4bfe-95f6-cad6ac4f77b4",
+            "label": "leftDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 369,
+            "y": 449,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148,
+            "visible": false
+        },
+        {
+            "type": "Image",
+            "id": "5c9900cd-eed1-42c4-af21-d00fe9aba655",
+            "label": "rightDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 1253,
+            "y": 449,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148,
+            "visible": false
+        },
+        {
+            "type": "Image",
+            "id": "f0a845de-369a-46da-866b-dcf915e3803f",
+            "label": "rightCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 81,
+            "y": 429,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147
+        },
+        {
+            "type": "Image",
+            "id": "03fb4330-15ce-49c1-a449-fd591890fd70",
+            "label": "leftCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 1523,
+            "y": 426,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147,
+            "flipX": true
+        },
+        {
+            "type": "Sprite",
+            "id": "b4f7c0c7-9d2f-4025-8e1b-116f7cd918f2",
+            "label": "hostess",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "hostesspresent",
+                "frame": "hostesspresent_000.png"
+            },
+            "x": 956,
+            "y": 622,
+            "flipX": true
+        },
+        {
+            "type": "TileSprite",
+            "id": "3e73effc-1445-45d6-9119-c21ea61a491c",
+            "label": "cable",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "cable"
+            },
+            "x": -320.5,
+            "y": -22,
+            "width": 40,
+            "height": 1566
+        },
+        {
+            "type": "Image",
+            "id": "f156c79f-05ff-4fd4-9f39-ad8740b0fe36",
+            "label": "grapple_left_arm",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "grapple_left_arm"
+            },
+            "x": -431,
+            "y": 891
+        },
+        {
+            "type": "Image",
+            "id": "35123d22-609d-4455-8798-7aa58c851062",
+            "label": "grapple_right_arm",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "grapple_right_arm"
+            },
+            "x": -215,
+            "y": 891
+        },
+        {
+            "type": "Image",
+            "id": "e00333f7-2c56-40ca-90d8-9e9d9e2ed0a1",
+            "label": "grapple_center",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "grapple_center"
+            },
+            "x": -320.5,
+            "y": 705
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

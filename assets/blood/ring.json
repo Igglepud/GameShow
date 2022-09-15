@@ -1,0 +1,209 @@
+{
+	"textures": [
+		{
+			"image": "ring.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1951,
+				"h": 1850
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blood_ring_red_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 22,
+						"w": 992,
+						"h": 980
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 992,
+						"h": 980
+					}
+				},
+				{
+					"filename": "blood_ring_red_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 79,
+						"w": 876,
+						"h": 866
+					},
+					"frame": {
+						"x": 1,
+						"y": 983,
+						"w": 876,
+						"h": 866
+					}
+				},
+				{
+					"filename": "blood_ring_red_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 137,
+						"w": 753,
+						"h": 754
+					},
+					"frame": {
+						"x": 995,
+						"y": 1,
+						"w": 753,
+						"h": 754
+					}
+				},
+				{
+					"filename": "blood_ring_red_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 196,
+						"y": 204,
+						"w": 624,
+						"h": 611
+					},
+					"frame": {
+						"x": 995,
+						"y": 757,
+						"w": 624,
+						"h": 611
+					}
+				},
+				{
+					"filename": "blood_ring_red_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 270,
+						"y": 276,
+						"w": 496,
+						"h": 470
+					},
+					"frame": {
+						"x": 879,
+						"y": 1370,
+						"w": 496,
+						"h": 470
+					}
+				},
+				{
+					"filename": "blood_ring_red_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 341,
+						"y": 342,
+						"w": 329,
+						"h": 341
+					},
+					"frame": {
+						"x": 1621,
+						"y": 757,
+						"w": 329,
+						"h": 341
+					}
+				},
+				{
+					"filename": "blood_ring_red_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 303,
+						"y": 297,
+						"w": 413,
+						"h": 423
+					},
+					"frame": {
+						"x": 1377,
+						"y": 1370,
+						"w": 413,
+						"h": 423
+					}
+				},
+				{
+					"filename": "blood_ring_red_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 382,
+						"y": 386,
+						"w": 248,
+						"h": 251
+					},
+					"frame": {
+						"x": 1621,
+						"y": 1100,
+						"w": 248,
+						"h": 251
+					}
+				},
+				{
+					"filename": "blood_ring_red_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 421,
+						"y": 443,
+						"w": 163,
+						"h": 150
+					},
+					"frame": {
+						"x": 1750,
+						"y": 1,
+						"w": 163,
+						"h": 150
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:bfd709c6042fded3811728f814592ebd:c3ee24daa15430c860fa256a269e91fd:64b4386e1e5aa8721b5b910c373a40a9$"
+	}
+}

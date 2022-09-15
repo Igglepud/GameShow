@@ -1,0 +1,36 @@
+{
+    "section1": {
+        "files": [
+            {
+                "type": "multiatlas",
+                "url": "assets/men/manfall.json",
+                "path": "assets/men",
+                "key": "manfall"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/men/manjump.json",
+                "path": "assets/men",
+                "key": "manjump"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/men/manrun.json",
+                "path": "assets/men",
+                "key": "manrun"
+            },
+            {
+                "url": "assets/men/menrunning.json",
+                "type": "animation",
+                "key": "menrunning"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

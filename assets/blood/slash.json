@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "slash.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1982,
+				"h": 1459
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blood_slash_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 549
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 989,
+						"h": 549
+					}
+				},
+				{
+					"filename": "blood_slash_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 479
+					},
+					"frame": {
+						"x": 1,
+						"y": 552,
+						"w": 989,
+						"h": 479
+					}
+				},
+				{
+					"filename": "blood_slash_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 425
+					},
+					"frame": {
+						"x": 1,
+						"y": 1033,
+						"w": 989,
+						"h": 425
+					}
+				},
+				{
+					"filename": "blood_slash_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 357
+					},
+					"frame": {
+						"x": 992,
+						"y": 1,
+						"w": 989,
+						"h": 357
+					}
+				},
+				{
+					"filename": "blood_slash_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 292
+					},
+					"frame": {
+						"x": 992,
+						"y": 360,
+						"w": 989,
+						"h": 292
+					}
+				},
+				{
+					"filename": "blood_slash_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 236
+					},
+					"frame": {
+						"x": 992,
+						"y": 654,
+						"w": 989,
+						"h": 236
+					}
+				},
+				{
+					"filename": "blood_slash_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 206
+					},
+					"frame": {
+						"x": 992,
+						"y": 892,
+						"w": 989,
+						"h": 206
+					}
+				},
+				{
+					"filename": "blood_slash_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 10,
+						"w": 989,
+						"h": 177
+					},
+					"frame": {
+						"x": 992,
+						"y": 1100,
+						"w": 989,
+						"h": 177
+					}
+				},
+				{
+					"filename": "blood_slash_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 71,
+						"w": 612,
+						"h": 116
+					},
+					"frame": {
+						"x": 992,
+						"y": 1279,
+						"w": 612,
+						"h": 116
+					}
+				},
+				{
+					"filename": "blood_slash_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 559
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 108,
+						"w": 375,
+						"h": 80
+					},
+					"frame": {
+						"x": 1606,
+						"y": 1279,
+						"w": 375,
+						"h": 80
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:55a64dc1a25504e260b5815e3daa5974:7b3bfd64c766d34fb385e41ed60155c7:4c2a936d85c11c400a98373d644f3e1c$"
+	}
+}

@@ -1,0 +1,205 @@
+{
+    "id": "01868087-60a9-484a-a0ed-08ca02b76e43",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "StartGame",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "6945e7f6-06d6-47b9-a004-44bd689c4b10",
+            "label": "seats_with_audience",
+            "components": [],
+            "texture": {
+                "key": "seats_with_audience"
+            },
+            "x": 755.125,
+            "y": 443,
+            "scaleX": 0.8182269302500232,
+            "scaleY": 0.8182269302500232
+        },
+        {
+            "type": "Image",
+            "id": "0e2b0b22-4ad9-407c-a2ee-524a892cbe01",
+            "label": "stage",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "stage"
+            },
+            "x": 755.125,
+            "y": 831
+        },
+        {
+            "type": "Image",
+            "id": "4c90a557-cf46-4849-8976-abe472b10b57",
+            "label": "overhead_light",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 1201,
+            "y": 420,
+            "angle": 16
+        },
+        {
+            "type": "Image",
+            "id": "6e42e86f-d189-456c-8421-712485866aea",
+            "label": "overhead_light_1",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 415,
+            "y": 400,
+            "angle": -20,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "0684f602-ed23-44d2-a2c1-83b3d1d2292b",
+            "label": "coinMountain",
+            "components": [],
+            "texture": {
+                "key": "coinMountain"
+            },
+            "x": 1215,
+            "y": 644
+        },
+        {
+            "prefabId": "c0ac6a65-5a11-45cf-a74e-503024a2bde9",
+            "id": "96280153-f962-4a4a-85b5-6578b7a9d4d3",
+            "unlock": [
+                "x",
+                "y",
+                "originX",
+                "originY"
+            ],
+            "label": "saw1",
+            "scope": "CLASS",
+            "components": [],
+            "x": 739,
+            "y": -57,
+            "nestedPrefabs": []
+        },
+        {
+            "type": "Image",
+            "id": "76601cfc-32ac-42ad-b2b9-e127ec206a27",
+            "label": "coinMountain_1",
+            "components": [],
+            "texture": {
+                "key": "coinMountain"
+            },
+            "x": 1384,
+            "y": 639
+        },
+        {
+            "type": "Image",
+            "id": "7de94110-1caf-4097-924f-40b33ac1a9fb",
+            "label": "diamonds_group_01",
+            "components": [],
+            "texture": {
+                "key": "diamonds_group_01"
+            },
+            "x": 1223,
+            "y": 748
+        },
+        {
+            "type": "Sprite",
+            "id": "b82d2134-22fc-4d3d-a494-783b4739c2b8",
+            "label": "host",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "hostidle",
+                "frame": "hostidle_000.png"
+            },
+            "x": 328,
+            "y": 560
+        },
+        {
+            "type": "Sprite",
+            "id": "ed00dadb-92db-440d-8e19-f17c6d082f1a",
+            "label": "man",
+            "scope": "CLASS",
+            "components": [
+                "Gib"
+            ],
+            "Gib.idle": "man_idle",
+            "texture": {
+                "key": "manidle",
+                "frame": "__office_worker_idle_000.png"
+            },
+            "x": 650,
+            "y": 569
+        },
+        {
+            "type": "Image",
+            "id": "72a8620f-b673-4bfe-95f6-cad6ac4f77b4",
+            "label": "leftDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 369,
+            "y": 449,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "5c9900cd-eed1-42c4-af21-d00fe9aba655",
+            "label": "rightDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 1253,
+            "y": 449,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "f0a845de-369a-46da-866b-dcf915e3803f",
+            "label": "rightCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 81,
+            "y": 429,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147
+        },
+        {
+            "type": "Image",
+            "id": "03fb4330-15ce-49c1-a449-fd591890fd70",
+            "label": "leftCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 1523,
+            "y": 426,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147,
+            "flipX": true
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

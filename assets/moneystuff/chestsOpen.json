@@ -1,0 +1,85 @@
+{
+    "anims": [
+        {
+            "key": "greenChestOpenEmpty",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "greenChestEmpty",
+                    "frame": "face_on_chest_empty_green_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestEmpty",
+                    "frame": "face_on_chest_empty_green_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestEmpty",
+                    "frame": "face_on_chest_empty_green_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestEmpty",
+                    "frame": "face_on_chest_empty_green_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestEmpty",
+                    "frame": "face_on_chest_empty_green_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "greenChestOpenFull",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "greenChestFull",
+                    "frame": "face_on_chest_with_treasure_green_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestFull",
+                    "frame": "face_on_chest_with_treasure_green_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestFull",
+                    "frame": "face_on_chest_with_treasure_green_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestFull",
+                    "frame": "face_on_chest_with_treasure_green_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "greenChestFull",
+                    "frame": "face_on_chest_with_treasure_green_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 10,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

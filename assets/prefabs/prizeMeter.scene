@@ -1,0 +1,158 @@
+{
+    "id": "0da2e196-f61d-44d0-ad37-06347f20b181",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "8abcb172-e9d0-4516-8584-fc34c8c2c10f",
+            "label": "container_1",
+            "components": [],
+            "x": 265.3195456548022,
+            "y": -239.64346059143423,
+            "scaleX": 0.6324961058014543,
+            "scaleY": 0.6324961058014543,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "0ce9830a-ae6a-480d-a721-69a897acd019",
+                    "label": "meter_bar_holder_left_edge_green",
+                    "components": [],
+                    "texture": {
+                        "key": "meter_bar_holder_left_edge_green"
+                    },
+                    "x": -80.48011675537634,
+                    "y": 10.885266746791501
+                },
+                {
+                    "type": "TileSprite",
+                    "id": "6f7ae8e2-0f01-411e-9a9e-41f36d9d5437",
+                    "label": "meter_bar_holder_center_repeating_green",
+                    "components": [],
+                    "texture": {
+                        "key": "meter_bar_holder_center-repeating_green"
+                    },
+                    "x": 462.51988324462366,
+                    "y": 10.885266746791501,
+                    "width": 880,
+                    "height": 349
+                },
+                {
+                    "type": "Image",
+                    "id": "82902b78-e212-4979-af29-3139c5375659",
+                    "label": "meter_bar_holder_left_edge_green_1",
+                    "components": [],
+                    "texture": {
+                        "key": "meter_bar_holder_left_edge_green"
+                    },
+                    "x": 1005.5198832446237,
+                    "y": 10.885266746791501,
+                    "flipX": true
+                },
+                {
+                    "type": "TileSprite",
+                    "id": "a5df3621-7a5c-4d3b-a13c-27e592b9df5e",
+                    "label": "fillCenter",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "meter_bar_center-repeating_green"
+                    },
+                    "x": 469.51988324462366,
+                    "y": 8.885266746791501,
+                    "width": 1080,
+                    "height": 349
+                },
+                {
+                    "type": "Image",
+                    "id": "663d47cd-a970-4bcf-a2c3-eeda2c377e25",
+                    "label": "fillBottom",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "meter_bar_left_edge_green"
+                    },
+                    "x": -96.48011675537634,
+                    "y": 8.885266746791501
+                },
+                {
+                    "type": "Image",
+                    "id": "ae67aefb-511d-4bfc-9dfa-dbe50215193e",
+                    "label": "fillTop",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "meter_bar_right_edge_green"
+                    },
+                    "x": 1033.5198832446235,
+                    "y": 8.885266746791501,
+                    "visible": false
+                },
+                {
+                    "type": "Ellipse",
+                    "id": "3da93ce7-ead8-4031-bdd5-e5fc9e54c99c",
+                    "label": "ellipse_1",
+                    "components": [],
+                    "x": -37.48011675537634,
+                    "y": 7.885266746791501,
+                    "isFilled": true,
+                    "fillColor": "#68f705",
+                    "strokeColor": "#d8db03",
+                    "lineWidth": 20,
+                    "isStroked": true,
+                    "width": 360,
+                    "height": 360,
+                    "smoothness": 512
+                },
+                {
+                    "type": "Ellipse",
+                    "id": "d3eefb41-f15d-4202-ab00-2609b33ff727",
+                    "label": "ellipse",
+                    "components": [],
+                    "x": -37.48011675537634,
+                    "y": 7.885266746791501,
+                    "isFilled": true,
+                    "fillColor": "#d8db03",
+                    "strokeColor": "#d8db03",
+                    "lineWidth": 20,
+                    "width": 300,
+                    "height": 300,
+                    "smoothness": 512
+                },
+                {
+                    "type": "Text",
+                    "id": "a579e4d4-bffb-4fc5-b715-7f24c5b48a55",
+                    "label": "dollarsign",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": -114,
+                    "y": -136,
+                    "text": "$\n",
+                    "fontFamily": "pricedown",
+                    "fontSize": "256px",
+                    "color": "#d8db03",
+                    "stroke": "#68f705",
+                    "strokeThickness": 20,
+                    "shadow.offsetY": 20,
+                    "shadow.stroke": true,
+                    "shadow.fill": true,
+                    "shadow.color": "#68f705",
+                    "shadow.blur": 20
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

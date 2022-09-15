@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "manfall.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1358,
+				"h": 2039
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "manfall_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 9,
+						"w": 350,
+						"h": 509
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 350,
+						"h": 509
+					}
+				},
+				{
+					"filename": "manfall_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 349,
+						"h": 509
+					},
+					"frame": {
+						"x": 1,
+						"y": 512,
+						"w": 349,
+						"h": 509
+					}
+				},
+				{
+					"filename": "manfall_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 2,
+						"y": 9,
+						"w": 347,
+						"h": 508
+					},
+					"frame": {
+						"x": 353,
+						"y": 1,
+						"w": 347,
+						"h": 508
+					}
+				},
+				{
+					"filename": "manfall_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 10,
+						"w": 347,
+						"h": 507
+					},
+					"frame": {
+						"x": 1,
+						"y": 1023,
+						"w": 347,
+						"h": 507
+					}
+				},
+				{
+					"filename": "manfall_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 10,
+						"w": 344,
+						"h": 506
+					},
+					"frame": {
+						"x": 702,
+						"y": 1,
+						"w": 344,
+						"h": 506
+					}
+				},
+				{
+					"filename": "manfall_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 7,
+						"y": 10,
+						"w": 344,
+						"h": 506
+					},
+					"frame": {
+						"x": 1,
+						"y": 1532,
+						"w": 344,
+						"h": 506
+					}
+				},
+				{
+					"filename": "manfall_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 6,
+						"y": 10,
+						"w": 341,
+						"h": 505
+					},
+					"frame": {
+						"x": 347,
+						"y": 1532,
+						"w": 341,
+						"h": 505
+					}
+				},
+				{
+					"filename": "manfall_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 8,
+						"y": 10,
+						"w": 338,
+						"h": 504
+					},
+					"frame": {
+						"x": 350,
+						"y": 1023,
+						"w": 338,
+						"h": 504
+					}
+				},
+				{
+					"filename": "manfall_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 10,
+						"w": 341,
+						"h": 504
+					},
+					"frame": {
+						"x": 352,
+						"y": 512,
+						"w": 341,
+						"h": 504
+					}
+				},
+				{
+					"filename": "manfall_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 10,
+						"w": 335,
+						"h": 503
+					},
+					"frame": {
+						"x": 695,
+						"y": 511,
+						"w": 335,
+						"h": 503
+					}
+				},
+				{
+					"filename": "manfall_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 16,
+						"y": 11,
+						"w": 325,
+						"h": 498
+					},
+					"frame": {
+						"x": 1032,
+						"y": 509,
+						"w": 325,
+						"h": 498
+					}
+				},
+				{
+					"filename": "manfall_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 11,
+						"w": 336,
+						"h": 502
+					},
+					"frame": {
+						"x": 690,
+						"y": 1018,
+						"w": 336,
+						"h": 502
+					}
+				},
+				{
+					"filename": "manfall_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 11,
+						"w": 329,
+						"h": 499
+					},
+					"frame": {
+						"x": 1028,
+						"y": 1016,
+						"w": 329,
+						"h": 499
+					}
+				},
+				{
+					"filename": "manfall_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 11,
+						"w": 332,
+						"h": 501
+					},
+					"frame": {
+						"x": 690,
+						"y": 1522,
+						"w": 332,
+						"h": 501
+					}
+				},
+				{
+					"filename": "manfall_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 358,
+						"h": 522
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 11,
+						"w": 332,
+						"h": 500
+					},
+					"frame": {
+						"x": 1024,
+						"y": 1522,
+						"w": 332,
+						"h": 500
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:b8a9c0604600b921c03b3410ff135052:ac9d5243969d3b31ac29d1c3b4e62ea0:ea9d05f471abeba57c585ed210451d34$"
+	}
+}

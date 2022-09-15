@@ -1,0 +1,48 @@
+{
+    "anims": [
+        {
+            "key": "flag_wave",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "goldFlag",
+                    "frame": "square_flag_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goldFlag",
+                    "frame": "square_flag_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goldFlag",
+                    "frame": "square_flag_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goldFlag",
+                    "frame": "square_flag_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "goldFlag",
+                    "frame": "square_flag_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 5,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

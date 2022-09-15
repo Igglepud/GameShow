@@ -1,0 +1,62 @@
+{
+	"textures": [
+		{
+			"image": "lever1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 372,
+				"h": 374
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "lever1b",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 466,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 1,
+						"y": 197,
+						"w": 370,
+						"h": 94
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 370,
+						"h": 94
+					}
+				},
+				{
+					"filename": "lever1a",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 466,
+						"h": 291
+					},
+					"spriteSourceSize": {
+						"x": 112,
+						"y": 15,
+						"w": 259,
+						"h": 276
+					},
+					"frame": {
+						"x": 1,
+						"y": 97,
+						"w": 259,
+						"h": 276
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:5206015311a8b79fa9b26325b6d48fa6:a6ccf622a78bd9359dadc9d011f8b7a7:6449af1f3d8e4ed9272b9a01549d50a8$"
+	}
+}

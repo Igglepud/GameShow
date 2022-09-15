@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "hostesswalk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 906,
+				"h": 1400
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hostesswalk_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 226,
+						"h": 467
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 226,
+						"h": 467
+					}
+				},
+				{
+					"filename": "hostesswalk_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 224,
+						"h": 471
+					},
+					"frame": {
+						"x": 229,
+						"y": 1,
+						"w": 224,
+						"h": 471
+					}
+				},
+				{
+					"filename": "hostesswalk_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 1,
+						"w": 224,
+						"h": 469
+					},
+					"frame": {
+						"x": 1,
+						"y": 470,
+						"w": 224,
+						"h": 469
+					}
+				},
+				{
+					"filename": "hostesswalk_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 3,
+						"w": 224,
+						"h": 467
+					},
+					"frame": {
+						"x": 455,
+						"y": 1,
+						"w": 224,
+						"h": 467
+					}
+				},
+				{
+					"filename": "hostesswalk_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 2,
+						"w": 224,
+						"h": 463
+					},
+					"frame": {
+						"x": 681,
+						"y": 1,
+						"w": 224,
+						"h": 463
+					}
+				},
+				{
+					"filename": "hostesswalk_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 224,
+						"h": 462
+					},
+					"frame": {
+						"x": 681,
+						"y": 466,
+						"w": 224,
+						"h": 462
+					}
+				},
+				{
+					"filename": "hostesswalk_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 8,
+						"w": 224,
+						"h": 461
+					},
+					"frame": {
+						"x": 455,
+						"y": 470,
+						"w": 224,
+						"h": 461
+					}
+				},
+				{
+					"filename": "hostesswalk_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 224,
+						"h": 460
+					},
+					"frame": {
+						"x": 227,
+						"y": 474,
+						"w": 224,
+						"h": 460
+					}
+				},
+				{
+					"filename": "hostesswalk_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 4,
+						"w": 224,
+						"h": 460
+					},
+					"frame": {
+						"x": 681,
+						"y": 930,
+						"w": 224,
+						"h": 460
+					}
+				},
+				{
+					"filename": "hostesswalk_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 6,
+						"w": 224,
+						"h": 459
+					},
+					"frame": {
+						"x": 453,
+						"y": 933,
+						"w": 224,
+						"h": 459
+					}
+				},
+				{
+					"filename": "hostesswalk_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 7,
+						"w": 224,
+						"h": 459
+					},
+					"frame": {
+						"x": 227,
+						"y": 936,
+						"w": 224,
+						"h": 459
+					}
+				},
+				{
+					"filename": "hostesswalk_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 394,
+						"h": 477
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 10,
+						"w": 224,
+						"h": 458
+					},
+					"frame": {
+						"x": 1,
+						"y": 941,
+						"w": 224,
+						"h": 458
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:46870a957efa77d719d27311b2ccf9ba:f8c41f49b4fc9853f7f8d7c8dbb1e10c:add9ebfec2788c4b3eb3aa40b5ba40ed$"
+	}
+}

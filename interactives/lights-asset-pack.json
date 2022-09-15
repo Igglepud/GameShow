@@ -1,0 +1,44 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": [
+                    "assets/audio/greenlight.wav"
+                ],
+                "type": "audio",
+                "key": "greenLight"
+            },
+            {
+                "url": "assets/interactives/green.png",
+                "type": "image",
+                "key": "greenStopLight"
+            },
+            {
+                "url": [
+                    "assets/audio/redlightgreenlightmusic.wav"
+                ],
+                "type": "audio",
+                "key": "redLightGreenLightMusic"
+            },
+            {
+                "url": [
+                    "assets/audio/redlight.wav"
+                ],
+                "type": "audio",
+                "key": "redLight"
+            },
+            {
+                "url": "assets/interactives/red.png",
+                "type": "image",
+                "key": "redStopLight"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

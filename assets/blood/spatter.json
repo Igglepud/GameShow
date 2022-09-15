@@ -1,0 +1,167 @@
+{
+	"textures": [
+		{
+			"image": "spatter.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 923,
+				"h": 1778
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blood_spatter_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 60,
+						"y": 11,
+						"w": 589,
+						"h": 598
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 589,
+						"h": 598
+					}
+				},
+				{
+					"filename": "blood_spatter_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 52,
+						"w": 574,
+						"h": 590
+					},
+					"frame": {
+						"x": 1,
+						"y": 601,
+						"w": 574,
+						"h": 590
+					}
+				},
+				{
+					"filename": "blood_spatter_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 79,
+						"y": 11,
+						"w": 578,
+						"h": 584
+					},
+					"frame": {
+						"x": 1,
+						"y": 1193,
+						"w": 578,
+						"h": 584
+					}
+				},
+				{
+					"filename": "blood_spatter_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 280,
+						"w": 345,
+						"h": 358
+					},
+					"frame": {
+						"x": 577,
+						"y": 601,
+						"w": 345,
+						"h": 358
+					}
+				},
+				{
+					"filename": "blood_spatter_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 508,
+						"w": 153,
+						"h": 128
+					},
+					"frame": {
+						"x": 577,
+						"y": 961,
+						"w": 153,
+						"h": 128
+					}
+				},
+				{
+					"filename": "blood_spatter_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 363,
+						"w": 255,
+						"h": 278
+					},
+					"frame": {
+						"x": 592,
+						"y": 1,
+						"w": 255,
+						"h": 278
+					}
+				},
+				{
+					"filename": "blood_spatter_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 3,
+						"h": 3
+					},
+					"frame": {
+						"x": 592,
+						"y": 281,
+						"w": 3,
+						"h": 3
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:92ef60e3553838eaeaee2f261a0495b9:61412cc5c5fb6a56fd939e7df02f06d6:2b8370ac1f8c63294db79720516e08e4$"
+	}
+}

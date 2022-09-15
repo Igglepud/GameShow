@@ -1,0 +1,125 @@
+{
+	"textures": [
+		{
+			"image": "greenChestFull.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2042,
+				"h": 471
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "face_on_chest_with_treasure_green_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 434,
+						"h": 498
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 5,
+						"w": 410,
+						"h": 469
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 410,
+						"h": 469
+					}
+				},
+				{
+					"filename": "face_on_chest_with_treasure_green_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 434,
+						"h": 498
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 5,
+						"w": 410,
+						"h": 469
+					},
+					"frame": {
+						"x": 413,
+						"y": 1,
+						"w": 410,
+						"h": 469
+					}
+				},
+				{
+					"filename": "face_on_chest_with_treasure_green_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 434,
+						"h": 498
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 7,
+						"w": 410,
+						"h": 467
+					},
+					"frame": {
+						"x": 825,
+						"y": 1,
+						"w": 410,
+						"h": 467
+					}
+				},
+				{
+					"filename": "face_on_chest_with_treasure_green_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 434,
+						"h": 498
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 139,
+						"w": 401,
+						"h": 335
+					},
+					"frame": {
+						"x": 1237,
+						"y": 1,
+						"w": 401,
+						"h": 335
+					}
+				},
+				{
+					"filename": "face_on_chest_with_treasure_green_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 434,
+						"h": 498
+					},
+					"spriteSourceSize": {
+						"x": 11,
+						"y": 148,
+						"w": 401,
+						"h": 326
+					},
+					"frame": {
+						"x": 1640,
+						"y": 1,
+						"w": 401,
+						"h": 326
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:94f13238c3c3e14cee91e56d3e1e6695:398be142c19ea75c163b8c70ee5cbfd6:ddf0236354dd0c3cef9a1591e185b13f$"
+	}
+}

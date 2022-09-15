@@ -1,0 +1,23 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/speechStuff/connector_03.png",
+                "type": "image",
+                "key": "connector_03"
+            },
+            {
+                "url": "assets/speechStuff/panel_09.png",
+                "type": "image",
+                "key": "panel_09"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

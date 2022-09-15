@@ -1,0 +1,287 @@
+{
+    "anims": [
+        {
+            "key": "man_run",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "manrun",
+                    "frame": "manrun_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manrun",
+                    "frame": "manrun_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "man_jump",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "manjump",
+                    "frame": "manjump_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manjump",
+                    "frame": "manjump_014.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "man_fall",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "manfall",
+                    "frame": "manfall_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manfall",
+                    "frame": "manfall_014.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

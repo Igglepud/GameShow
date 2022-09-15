@@ -1,0 +1,102 @@
+{
+    "components": [
+        {
+            "name": "PushOnClick",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Image",
+            "properties": []
+        },
+        {
+            "name": "PreloadText",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Text",
+            "properties": []
+        },
+        {
+            "name": "Spin",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": []
+        },
+        {
+            "name": "StartAnimations",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": [
+                {
+                    "name": "animationKey",
+                    "label": "Animation Key1",
+                    "tooltip": "Animation Key1",
+                    "defValue": "",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "animation-key"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "playSound",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": [
+                {
+                    "name": "soundKey",
+                    "label": "soundKey",
+                    "tooltip": "soundKey",
+                    "defValue": "titleMusic",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "audio-key"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "Gib",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": [
+                {
+                    "name": "idle",
+                    "label": "idle",
+                    "tooltip": "idle",
+                    "defValue": "",
+                    "customDefinition": false,
+                    "type": {
+                        "id": "animation-key"
+                    }
+                }
+            ]
+        },
+        {
+            "name": "cloudMovement",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": []
+        },
+        {
+            "name": "SpikePanelBehavior",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": []
+        },
+        {
+            "name": "spikecolumn",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": []
+        },
+        {
+            "name": "leverForCraneInChestsAndLevers",
+            "baseClass": "UserComponent",
+            "gameObjectType": "Phaser.GameObjects.Sprite",
+            "properties": []
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Object Script Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}

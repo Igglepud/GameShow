@@ -1,0 +1,104 @@
+{
+	"textures": [
+		{
+			"image": "spikecolumn.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 414,
+				"h": 1725
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "spikecolumn4",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 397,
+						"h": 577
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 395,
+						"h": 573
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 395,
+						"h": 573
+					}
+				},
+				{
+					"filename": "spikecolumn3",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 397,
+						"h": 577
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 300,
+						"h": 573
+					},
+					"frame": {
+						"x": 1,
+						"y": 576,
+						"w": 300,
+						"h": 573
+					}
+				},
+				{
+					"filename": "spikecolumn2",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 397,
+						"h": 577
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 226,
+						"h": 573
+					},
+					"frame": {
+						"x": 1,
+						"y": 1151,
+						"w": 226,
+						"h": 573
+					}
+				},
+				{
+					"filename": "spikecolumn1",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 397,
+						"h": 577
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 184,
+						"h": 573
+					},
+					"frame": {
+						"x": 229,
+						"y": 1151,
+						"w": 184,
+						"h": 573
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:8eac788f39ab92f5868c4a918848adf7:43d827c621a89b8ae0587a27ca081971:c662b877a426c96c9f4017b70ecd904f$"
+	}
+}

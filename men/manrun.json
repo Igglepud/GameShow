@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "manrun.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 893,
+				"h": 1809
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "manrun_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 5,
+						"y": 11,
+						"w": 337,
+						"h": 426
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 337,
+						"h": 426
+					}
+				},
+				{
+					"filename": "manrun_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 4,
+						"y": 11,
+						"w": 323,
+						"h": 410
+					},
+					"frame": {
+						"x": 340,
+						"y": 1,
+						"w": 323,
+						"h": 410
+					}
+				},
+				{
+					"filename": "manrun_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 81,
+						"y": 10,
+						"w": 227,
+						"h": 468
+					},
+					"frame": {
+						"x": 665,
+						"y": 1,
+						"w": 227,
+						"h": 468
+					}
+				},
+				{
+					"filename": "manrun_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 14,
+						"w": 295,
+						"h": 442
+					},
+					"frame": {
+						"x": 340,
+						"y": 413,
+						"w": 295,
+						"h": 442
+					}
+				},
+				{
+					"filename": "manrun_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 55,
+						"y": 14,
+						"w": 255,
+						"h": 450
+					},
+					"frame": {
+						"x": 637,
+						"y": 471,
+						"w": 255,
+						"h": 450
+					}
+				},
+				{
+					"filename": "manrun_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 9,
+						"w": 278,
+						"h": 457
+					},
+					"frame": {
+						"x": 1,
+						"y": 429,
+						"w": 278,
+						"h": 457
+					}
+				},
+				{
+					"filename": "manrun_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 9,
+						"w": 270,
+						"h": 457
+					},
+					"frame": {
+						"x": 281,
+						"y": 857,
+						"w": 270,
+						"h": 457
+					}
+				},
+				{
+					"filename": "manrun_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 14,
+						"w": 256,
+						"h": 462
+					},
+					"frame": {
+						"x": 1,
+						"y": 888,
+						"w": 256,
+						"h": 462
+					}
+				},
+				{
+					"filename": "manrun_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 77,
+						"y": 12,
+						"w": 230,
+						"h": 456
+					},
+					"frame": {
+						"x": 1,
+						"y": 1352,
+						"w": 230,
+						"h": 456
+					}
+				},
+				{
+					"filename": "manrun_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 12,
+						"w": 201,
+						"h": 456
+					},
+					"frame": {
+						"x": 233,
+						"y": 1352,
+						"w": 201,
+						"h": 456
+					}
+				},
+				{
+					"filename": "manrun_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 74,
+						"y": 9,
+						"w": 231,
+						"h": 467
+					},
+					"frame": {
+						"x": 436,
+						"y": 1316,
+						"w": 231,
+						"h": 467
+					}
+				},
+				{
+					"filename": "manrun_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 347,
+						"h": 482
+					},
+					"spriteSourceSize": {
+						"x": 87,
+						"y": 14,
+						"w": 221,
+						"h": 458
+					},
+					"frame": {
+						"x": 669,
+						"y": 923,
+						"w": 221,
+						"h": 458
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e5d0852a73d6844251d6bd54e0fd0c68:0abe7c1b9757744e85c07143cb730997:9dfea536d3720ce6d79ffd2bdb07e709$"
+	}
+}

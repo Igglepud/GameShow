@@ -1,0 +1,501 @@
+{
+    "section1": {
+        "files": [
+            {
+                "atlasURL": "assets/baby/character_crawl.png.meta",
+                "textureURL": "assets/baby/character_crawl.png",
+                "type": "unityAtlas",
+                "key": "babyCrawl"
+            },
+            {
+                "atlasURL": "assets/baby/character_idle.png.meta",
+                "textureURL": "assets/baby/character_idle.png",
+                "type": "unityAtlas",
+                "key": "babyIdle"
+            },
+            {
+                "atlasURL": "assets/baby/character_run.png.meta",
+                "textureURL": "assets/baby/character_run.png",
+                "type": "unityAtlas",
+                "key": "babyRun"
+            },
+            {
+                "atlasURL": "assets/baby/character_walk.png.meta",
+                "textureURL": "assets/baby/character_walk.png",
+                "type": "unityAtlas",
+                "key": "babyWalk"
+            },
+            {
+                "atlasURL": "assets/traps/Background wall tiles.png.meta",
+                "textureURL": "assets/traps/Background wall tiles.png",
+                "type": "unityAtlas",
+                "key": "Background wall tiles.png"
+            },
+            {
+                "url": "assets/blood/bleeds.json",
+                "type": "animation",
+                "key": "bleeds"
+            },
+            {
+                "atlasURL": "assets/blood/blood_wall_splat_.png.meta",
+                "textureURL": "assets/blood/blood_wall_splat_.png",
+                "type": "unityAtlas",
+                "key": "blood_wall_splat"
+            },
+            {
+                "atlasURL": "assets/traps/Blur assets.png.meta",
+                "textureURL": "assets/traps/Blur assets.png",
+                "type": "unityAtlas",
+                "key": "Blur assets.png"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/burst.json",
+                "path": "assets/blood",
+                "key": "burst"
+            },
+            {
+                "atlasURL": "assets/traps/CameraFilter4K new testing.png.meta",
+                "textureURL": "assets/traps/CameraFilter4K new testing.png",
+                "type": "unityAtlas",
+                "key": "CameraFilter4K new testing.png"
+            },
+            {
+                "url": "assets/moneystuff/mountain_of_coins.png",
+                "type": "image",
+                "key": "coinMountain"
+            },
+            {
+                "url": "assets/moneystuff/crates_and_sack.png",
+                "type": "image",
+                "key": "crates_and_sack"
+            },
+            {
+                "url": [
+                    "assets/audio/deathmusic1.wav"
+                ],
+                "type": "audio",
+                "key": "deathmusic1"
+            },
+            {
+                "url": [
+                    "assets/audio/deathmusic2.wav"
+                ],
+                "type": "audio",
+                "key": "deathmusic2"
+            },
+            {
+                "url": [
+                    "assets/audio/deathmusic3.wav"
+                ],
+                "type": "audio",
+                "key": "deathmusic3"
+            },
+            {
+                "url": "assets/moneystuff/diamonds_group_01.png",
+                "type": "image",
+                "key": "diamonds_group_01"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/entrywound.json",
+                "path": "assets/blood",
+                "key": "entrywound"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/exitwound.json",
+                "path": "assets/blood",
+                "key": "exitwound"
+            },
+            {
+                "atlasURL": "assets/traps/Fire Sheet.png.meta",
+                "textureURL": "assets/traps/Fire Sheet.png",
+                "type": "unityAtlas",
+                "key": "Fire Sheet.png"
+            },
+            {
+                "url": "assets/hostess/hostess.json",
+                "type": "animation",
+                "key": "hostess"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/hostess/hostessidle.json",
+                "path": "assets/hostess",
+                "key": "hostessidle"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/hostess/hostesspresent.json",
+                "path": "assets/hostess",
+                "key": "hostesspresent"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/hostess/hostesswalk.json",
+                "path": "assets/hostess",
+                "key": "hostesswalk"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/men/host/hostidle.json",
+                "path": "assets/men/host",
+                "key": "hostidle"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/men/host/hostwalk.json",
+                "path": "assets/men/host",
+                "key": "hostwalk"
+            },
+            {
+                "url": [
+                    "assets/audio/CasualGameMusic03.mp3"
+                ],
+                "type": "audio",
+                "key": "level1music"
+            },
+            {
+                "atlasURL": "assets/traps/lift new.png.meta",
+                "textureURL": "assets/traps/lift new.png",
+                "type": "unityAtlas",
+                "key": "lift new.png"
+            },
+            {
+                "atlasURL": "assets/traps/Lift novi1.png.meta",
+                "textureURL": "assets/traps/Lift novi1.png",
+                "type": "unityAtlas",
+                "key": "Lift novi1.png"
+            },
+            {
+                "url": "assets/background/stage/light.png",
+                "type": "image",
+                "key": "light"
+            },
+            {
+                "atlasURL": "assets/traps/light test.png.meta",
+                "textureURL": "assets/traps/light test.png",
+                "type": "unityAtlas",
+                "key": "light test.png"
+            },
+            {
+                "url": [
+                    "assets/audio/lost1.wav"
+                ],
+                "type": "audio",
+                "key": "lost1"
+            },
+            {
+                "url": [
+                    "assets/audio/lost2.wav"
+                ],
+                "type": "audio",
+                "key": "lost2"
+            },
+            {
+                "url": [
+                    "assets/audio/lost3.wav"
+                ],
+                "type": "audio",
+                "key": "lost3"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/men/manidle.json",
+                "path": "assets/men",
+                "key": "manidle"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/men/manwalk.json",
+                "path": "assets/men",
+                "key": "manwalk"
+            },
+            {
+                "url": "assets/men/men.json",
+                "type": "animation",
+                "key": "men"
+            },
+            {
+                "url": "assets/background/stage/middrapes.png",
+                "type": "image",
+                "key": "middrapes"
+            },
+            {
+                "url": "assets/moneystuff/moneystuff.json",
+                "type": "animation",
+                "key": "moneystuff"
+            },
+            {
+                "url": "assets/moneystuff/mountain_of_diamonds.png",
+                "type": "image",
+                "key": "mountain_of_diamonds"
+            },
+            {
+                "url": "assets/background/stage/overhead_light.png",
+                "type": "image",
+                "key": "overhead_light"
+            },
+            {
+                "atlasURL": "assets/traps/Pipes and Blood Dripping.png.meta",
+                "textureURL": "assets/traps/Pipes and Blood Dripping.png",
+                "type": "unityAtlas",
+                "key": "Pipes and Blood Dripping.png"
+            },
+            {
+                "atlasURL": "assets/traps/Pipes Blures.png.meta",
+                "textureURL": "assets/traps/Pipes Blures.png",
+                "type": "unityAtlas",
+                "key": "Pipes Blures.png"
+            },
+            {
+                "atlasURL": "assets/traps/Pipes new.png.meta",
+                "textureURL": "assets/traps/Pipes new.png",
+                "type": "unityAtlas",
+                "key": "Pipes new.png",
+                "normalMap": "assets/traps/Pipes new_n.png"
+            },
+            {
+                "atlasURL": "assets/traps/Pipes,lasers,eyes,lights....png.meta",
+                "textureURL": "assets/traps/Pipes,lasers,eyes,lights....png",
+                "type": "unityAtlas",
+                "key": "Pipes,lasers,eyes,lights....png"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/ring.json",
+                "path": "assets/blood",
+                "key": "ring"
+            },
+            {
+                "url": [
+                    "assets/audio/saw.mp3"
+                ],
+                "type": "audio",
+                "key": "saw"
+            },
+            {
+                "atlasURL": "assets/traps/SawBase,Holes and Blood.png.meta",
+                "textureURL": "assets/traps/SawBase,Holes and Blood.png",
+                "type": "unityAtlas",
+                "key": "SawBase,Holes and Blood.png"
+            },
+            {
+                "url": "assets/background/stage/seats.png",
+                "type": "image",
+                "key": "seats"
+            },
+            {
+                "url": "assets/background/stage/seats_with_audience.png",
+                "type": "image",
+                "key": "seats_with_audience"
+            },
+            {
+                "atlasURL": "assets/traps/Shadows02.png.meta",
+                "textureURL": "assets/traps/Shadows02.png",
+                "type": "unityAtlas",
+                "key": "Shadows02.png"
+            },
+            {
+                "atlasURL": "assets/traps/Sheet Main 02 w Shadows.png.meta",
+                "textureURL": "assets/traps/Sheet Main 02 w Shadows.png",
+                "type": "unityAtlas",
+                "key": "Sheet Main 02 w Shadows.png",
+                "normalMap": "assets/traps/Sheet Main 02 w Shadows_n.png"
+            },
+            {
+                "url": [
+                    "assets/audio/shortwin1.wav"
+                ],
+                "type": "audio",
+                "key": "shortWin1"
+            },
+            {
+                "url": [
+                    "assets/audio/shortwin2.wav"
+                ],
+                "type": "audio",
+                "key": "shortWin2"
+            },
+            {
+                "url": "assets/background/stage/side_curtain.png",
+                "type": "image",
+                "key": "side_curtain"
+            },
+            {
+                "url": "assets/background/stage/sidedrapes.png",
+                "type": "image",
+                "key": "sidedrapes"
+            },
+            {
+                "url": "assets/background/stage/single_stage_light.png",
+                "type": "image",
+                "key": "single_stage_light"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/slash.json",
+                "path": "assets/blood",
+                "key": "slash"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/spatter.json",
+                "path": "assets/blood",
+                "key": "spatter"
+            },
+            {
+                "atlasURL": "assets/traps/Spike and chains.png.meta",
+                "textureURL": "assets/traps/Spike and chains.png",
+                "type": "unityAtlas",
+                "key": "Spike and chains.png"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/traps/spikecolumn.json",
+                "path": "assets/traps",
+                "key": "spikecolumn"
+            },
+            {
+                "url": "assets/traps/spikecolumnmask.png",
+                "type": "image",
+                "key": "spikeColumnMask"
+            },
+            {
+                "url": [
+                    "assets/audio/spikepanelactivate.wav"
+                ],
+                "type": "audio",
+                "key": "spikepanelactivate"
+            },
+            {
+                "url": "assets/traps/greenandgoldspikesin.png",
+                "type": "image",
+                "key": "spikePanelIn"
+            },
+            {
+                "url": "assets/traps/greenandgoldspikesoutmask.png",
+                "type": "image",
+                "key": "spikePanelMask"
+            },
+            {
+                "url": "assets/traps/greenandgoldspikesout.png",
+                "type": "image",
+                "key": "spikePanelOut"
+            },
+            {
+                "url": [
+                    "assets/audio/splat1.wav"
+                ],
+                "type": "audio",
+                "key": "splat1"
+            },
+            {
+                "url": [
+                    "assets/audio/splat2.wav"
+                ],
+                "type": "audio",
+                "key": "splat2"
+            },
+            {
+                "url": [
+                    "assets/audio/splat3.wav"
+                ],
+                "type": "audio",
+                "key": "splat3"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/splatter.json",
+                "path": "assets/blood",
+                "key": "splatter"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/splodge.json",
+                "path": "assets/blood",
+                "key": "splodge"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/splodgedrip.json",
+                "path": "assets/blood",
+                "key": "splodgedrip"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/blood/spurt.json",
+                "path": "assets/blood",
+                "key": "spurt"
+            },
+            {
+                "url": [
+                    "assets/audio/squish1.wav"
+                ],
+                "type": "audio",
+                "key": "squish1"
+            },
+            {
+                "url": "assets/background/stage/stage.png",
+                "type": "image",
+                "key": "stage"
+            },
+            {
+                "url": "assets/moneystuff/mega_stash_coins_only.png",
+                "type": "image",
+                "key": "stashCoins"
+            },
+            {
+                "url": "assets/moneystuff/mega_stash_coins_and_diamonds.png",
+                "type": "image",
+                "key": "stashCoinsDiamonds"
+            },
+            {
+                "atlasURL": "assets/traps/Tesla trap sheet.png.meta",
+                "textureURL": "assets/traps/Tesla trap sheet.png",
+                "type": "unityAtlas",
+                "key": "Tesla trap sheet.png"
+            },
+            {
+                "atlasURL": "assets/traps/testing floor 1.png.meta",
+                "textureURL": "assets/traps/testing floor 1.png",
+                "type": "unityAtlas",
+                "key": "testing floor 1.png"
+            },
+            {
+                "url": [
+                    "assets/audio/titleMusic.wav"
+                ],
+                "type": "audio",
+                "key": "titleMusic"
+            },
+            {
+                "url": "assets/traps/traps.json",
+                "type": "animation",
+                "key": "traps"
+            },
+            {
+                "url": [
+                    "assets/audio/victory1.wav"
+                ],
+                "type": "audio",
+                "key": "victory1"
+            },
+            {
+                "url": [
+                    "assets/audio/victory2.wav"
+                ],
+                "type": "audio",
+                "key": "victory2"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

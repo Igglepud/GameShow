@@ -1,0 +1,398 @@
+{
+  "textures": [
+    {
+      "image": "manidle.png",
+      "format": "RGBA8888",
+      "size": {
+        "w": 1776,
+        "h": 959
+      },
+      "scale": 1,
+      "frames": [
+        {
+          "filename": "__office_worker_idle_000.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 196,
+            "h": 476
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 156,
+            "w": 196,
+            "h": 476
+          },
+          "frame": {
+            "x": 1,
+            "y": 1,
+            "w": 196,
+            "h": 476
+          }
+        },
+        {
+          "filename": "__office_worker_idle_001.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 196,
+            "h": 476
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 156,
+            "w": 196,
+            "h": 476
+          },
+          "frame": {
+            "x": 199,
+            "y": 1,
+            "w": 196,
+            "h": 476
+          }
+        },
+        {
+          "filename": "__office_worker_idle_002.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 476
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 156,
+            "w": 195,
+            "h": 476
+          },
+          "frame": {
+            "x": 397,
+            "y": 1,
+            "w": 195,
+            "h": 476
+          }
+        },
+        {
+          "filename": "__office_worker_idle_003.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 476
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 156,
+            "w": 195,
+            "h": 476
+          },
+          "frame": {
+            "x": 594,
+            "y": 1,
+            "w": 195,
+            "h": 476
+          }
+        },
+        {
+          "filename": "__office_worker_idle_015.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 476
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 156,
+            "w": 195,
+            "h": 476
+          },
+          "frame": {
+            "x": 791,
+            "y": 1,
+            "w": 195,
+            "h": 476
+          }
+        },
+        {
+          "filename": "__office_worker_idle_016.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 476
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 156,
+            "w": 195,
+            "h": 476
+          },
+          "frame": {
+            "x": 988,
+            "y": 1,
+            "w": 195,
+            "h": 476
+          }
+        },
+        {
+          "filename": "__office_worker_idle_017.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 196,
+            "h": 476
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 156,
+            "w": 196,
+            "h": 476
+          },
+          "frame": {
+            "x": 1185,
+            "y": 1,
+            "w": 196,
+            "h": 476
+          }
+        },
+        {
+          "filename": "__office_worker_idle_004.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 155,
+            "w": 195,
+            "h": 477
+          },
+          "frame": {
+            "x": 1383,
+            "y": 1,
+            "w": 195,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_005.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 155,
+            "w": 195,
+            "h": 477
+          },
+          "frame": {
+            "x": 1580,
+            "y": 1,
+            "w": 195,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_006.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 155,
+            "w": 195,
+            "h": 477
+          },
+          "frame": {
+            "x": 1,
+            "y": 479,
+            "w": 195,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_007.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 196,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 239,
+            "y": 155,
+            "w": 196,
+            "h": 477
+          },
+          "frame": {
+            "x": 198,
+            "y": 479,
+            "w": 196,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_011.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 196,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 239,
+            "y": 155,
+            "w": 196,
+            "h": 477
+          },
+          "frame": {
+            "x": 396,
+            "y": 479,
+            "w": 196,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_012.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 155,
+            "w": 195,
+            "h": 477
+          },
+          "frame": {
+            "x": 594,
+            "y": 479,
+            "w": 195,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_013.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 155,
+            "w": 195,
+            "h": 477
+          },
+          "frame": {
+            "x": 791,
+            "y": 479,
+            "w": 195,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_014.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 477
+          },
+          "spriteSourceSize": {
+            "x": 240,
+            "y": 155,
+            "w": 195,
+            "h": 477
+          },
+          "frame": {
+            "x": 988,
+            "y": 479,
+            "w": 195,
+            "h": 477
+          }
+        },
+        {
+          "filename": "__office_worker_idle_008.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 478
+          },
+          "spriteSourceSize": {
+            "x": 239,
+            "y": 154,
+            "w": 195,
+            "h": 478
+          },
+          "frame": {
+            "x": 1185,
+            "y": 479,
+            "w": 195,
+            "h": 478
+          }
+        },
+        {
+          "filename": "__office_worker_idle_009.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 478
+          },
+          "spriteSourceSize": {
+            "x": 239,
+            "y": 154,
+            "w": 195,
+            "h": 478
+          },
+          "frame": {
+            "x": 1382,
+            "y": 480,
+            "w": 195,
+            "h": 478
+          }
+        },
+        {
+          "filename": "__office_worker_idle_010.png",
+          "rotated": false,
+          "trimmed": false,
+          "sourceSize": {
+            "w": 195,
+            "h": 478
+          },
+          "spriteSourceSize": {
+            "x": 239,
+            "y": 154,
+            "w": 195,
+            "h": 478
+          },
+          "frame": {
+            "x": 1579,
+            "y": 480,
+            "w": 195,
+            "h": 478
+          }
+        }
+      ]
+    }
+  ],
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "3.0",
+    "smartupdate": "$TexturePacker:SmartUpdate:2dbe6d89a4c73691ee78e5472f3cb1f9:1e94dceb69215e29aaeaa82d9e2f346c:ddc3799afa7dbfe2a540554c11068c22$"
+  }
+}

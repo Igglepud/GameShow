@@ -1,0 +1,347 @@
+{
+    "anims": [
+        {
+            "key": "hostess_present",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesspresent",
+                    "frame": "hostesspresent_012.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "hostess_idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostessidle",
+                    "frame": "hostessidle_026.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "hostess_walk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostesswalk",
+                    "frame": "hostesswalk_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

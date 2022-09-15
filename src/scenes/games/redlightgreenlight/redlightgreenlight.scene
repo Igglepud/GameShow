@@ -1,0 +1,636 @@
+{
+    "id": "7ce876b9-779f-47d9-8831-8a6c33a535a1",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadMethodName": "editorPreload",
+        "preloadPackFiles": [
+            "dontgibthebaby/assets/moneystuff/chests.json",
+            "dontgibthebaby/assets/speechStuff/speech-asset-pack.json",
+            "dontgibthebaby/assets/meter/meter-asset-pack.json",
+            "dontgibthebaby/assets/interactives/lights-asset-pack.json",
+            "dontgibthebaby/assets/background/outdoorHappy/happy-outdoors-asset-pack.json",
+            "dontgibthebaby/assets/men/men-running-asset-pack.json"
+        ],
+        "createMethodName": "editorCreate",
+        "sceneKey": "RedLightGreenLight",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "TileSprite",
+            "id": "3a9db481-18db-4c05-be94-8263cf03cd5f",
+            "label": "wall_Tile_Duble_02",
+            "components": [],
+            "texture": {
+                "key": "Background wall tiles.png",
+                "frame": "Wall Tile Duble 02"
+            },
+            "x": 746,
+            "y": 234,
+            "scaleX": 0.15,
+            "scaleY": 0.15,
+            "width": 13416,
+            "height": 3360
+        },
+        {
+            "type": "TileSprite",
+            "id": "e40d84f6-9b28-46f9-a1de-cbff658ff6d5",
+            "label": "sky",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "sky"
+            },
+            "x": 813,
+            "y": 229,
+            "visible": false,
+            "width": 1800,
+            "height": 497
+        },
+        {
+            "type": "TileSprite",
+            "id": "17f043e0-c4b0-4356-8d39-4a0956a31af3",
+            "label": "rainbow2",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "rainbow"
+            },
+            "x": 870,
+            "y": 374,
+            "angle": 90,
+            "visible": false,
+            "width": 748,
+            "height": 522
+        },
+        {
+            "type": "TileSprite",
+            "id": "21993d11-6c86-4bc9-8d16-161d8a0df73b",
+            "label": "rainbow1",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "rainbow"
+            },
+            "x": 349,
+            "y": 374,
+            "angle": 90,
+            "flipY": true,
+            "visible": false,
+            "width": 748,
+            "height": 522
+        },
+        {
+            "type": "TileSprite",
+            "id": "5a43b8fe-6d2c-4e88-bc0c-e92bd4560165",
+            "label": "stage",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "Background wall tiles.png",
+                "frame": "Floor 01"
+            },
+            "x": 742,
+            "y": 693,
+            "scaleX": 0.3,
+            "scaleY": 0.3,
+            "width": 7290,
+            "height": 1410
+        },
+        {
+            "type": "TileSprite",
+            "id": "a8eb1504-4fa6-49b3-9188-e3977271f3b8",
+            "label": "sun",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "sun"
+            },
+            "x": 1447,
+            "y": 184,
+            "visible": false,
+            "width": 485,
+            "height": 485
+        },
+        {
+            "type": "TileSprite",
+            "id": "c1d3239c-3150-4d85-922e-06e8d812365f",
+            "label": "cloud1",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "colud"
+            },
+            "x": 421,
+            "y": 94,
+            "visible": false,
+            "width": 296,
+            "height": 197
+        },
+        {
+            "type": "TileSprite",
+            "id": "f9dd5d2b-299d-4ee6-85b7-380a32021e92",
+            "label": "cloud2",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "cloud_01"
+            },
+            "x": 742,
+            "y": 258,
+            "visible": false,
+            "width": 186,
+            "height": 145
+        },
+        {
+            "type": "TileSprite",
+            "id": "275b5658-acc4-454b-b5aa-8b1fd892aac9",
+            "label": "cloud3",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "colud"
+            },
+            "x": 1145,
+            "y": 94,
+            "scaleX": 1.3475680851539404,
+            "scaleY": 1.3475680851539404,
+            "visible": false,
+            "width": 296,
+            "height": 197
+        },
+        {
+            "type": "TileSprite",
+            "id": "707b7270-d0f3-42d9-a305-4c6960489e5e",
+            "label": "cloud4",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "cloud_01"
+            },
+            "x": 1380,
+            "y": 294,
+            "flipX": true,
+            "visible": false,
+            "width": 186,
+            "height": 145
+        },
+        {
+            "type": "TileSprite",
+            "id": "85168140-22a9-47aa-b847-c05fb872506e",
+            "label": "land3",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "land"
+            },
+            "x": 417,
+            "y": 321,
+            "scaleX": 0.5353959161578656,
+            "scaleY": 0.5353959161578656,
+            "flipX": true,
+            "visible": false,
+            "width": 3468,
+            "height": 817
+        },
+        {
+            "type": "TileSprite",
+            "id": "7b0f0c49-06ea-46d7-90c9-fea384589b76",
+            "label": "land2",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "land2"
+            },
+            "x": 1136,
+            "y": 337,
+            "visible": false,
+            "width": 1360,
+            "height": 441
+        },
+        {
+            "type": "TileSprite",
+            "id": "f6e12154-0262-4f21-8dac-6950e96c51ad",
+            "label": "land",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "land"
+            },
+            "x": 823,
+            "y": 390,
+            "scaleX": 0.5183235247084199,
+            "scaleY": 0.5183235247084199,
+            "visible": false,
+            "width": 3468,
+            "height": 817
+        },
+        {
+            "type": "TileSprite",
+            "id": "d20fb9be-0400-4e59-8f4d-56a6aba5c192",
+            "label": "happyMiddle",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "happyMiddle"
+            },
+            "x": 592,
+            "y": 775,
+            "visible": false,
+            "width": 2400,
+            "height": 391
+        },
+        {
+            "type": "Sprite",
+            "id": "ed00dadb-92db-440d-8e19-f17c6d082f1a",
+            "label": "contestant",
+            "scope": "CLASS",
+            "components": [
+                "Gib"
+            ],
+            "Gib.idle": "man_idle",
+            "texture": {
+                "key": "manidle",
+                "frame": "__office_worker_idle_000.png"
+            },
+            "x": 107,
+            "y": 448,
+            "scaleX": 0.5,
+            "scaleY": 0.5
+        },
+        {
+            "type": "Image",
+            "id": "4c90a557-cf46-4849-8976-abe472b10b57",
+            "label": "light2",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 1201,
+            "y": 422,
+            "angle": 16
+        },
+        {
+            "type": "Image",
+            "id": "6e42e86f-d189-456c-8421-712485866aea",
+            "label": "light1",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 415,
+            "y": 402,
+            "angle": -20,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "72a8620f-b673-4bfe-95f6-cad6ac4f77b4",
+            "label": "leftDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 369,
+            "y": 451,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "5c9900cd-eed1-42c4-af21-d00fe9aba655",
+            "label": "rightDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 1253,
+            "y": 451,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "f0a845de-369a-46da-866b-dcf915e3803f",
+            "label": "rightCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 81,
+            "y": 431,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147
+        },
+        {
+            "type": "Image",
+            "id": "03fb4330-15ce-49c1-a449-fd591890fd70",
+            "label": "leftCurtain",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 1523,
+            "y": 428,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147,
+            "flipX": true
+        },
+        {
+            "type": "Sprite",
+            "id": "9c97cd1e-8403-4d62-aca1-363ce038c3a9",
+            "label": "bigHost",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "hostidle",
+                "frame": "hostidle_000.png"
+            },
+            "x": 377,
+            "y": 921,
+            "scaleX": 2.5,
+            "scaleY": 2.5
+        },
+        {
+            "type": "Image",
+            "id": "3455584e-8ec4-4698-80e2-0e98fafd30fe",
+            "label": "speechbox",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "panel_09"
+            },
+            "x": 1198,
+            "y": 708,
+            "scaleX": 1.5447342746466406,
+            "scaleY": 2.2069147135240197
+        },
+        {
+            "type": "Image",
+            "id": "aa95e5db-92b6-4b59-9149-44e841355587",
+            "label": "connector",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "connector_03"
+            },
+            "x": 683,
+            "y": 679,
+            "scaleX": 1.5773126392516716,
+            "scaleY": 1.5773126392516716,
+            "flipX": true
+        },
+        {
+            "type": "Text",
+            "id": "4049e125-fe66-4bbf-ae6f-e556cf489371",
+            "label": "hostText",
+            "scope": "CLASS",
+            "components": [],
+            "x": 870,
+            "y": 525,
+            "text": "There are a total of\nten chests.",
+            "fontFamily": "pricedown",
+            "fontSize": "72px",
+            "color": "#36ca0bff",
+            "stroke": "#00ff00",
+            "backgroundColor": "#ffffff00",
+            "shadow.offsetX": 5,
+            "shadow.offsetY": 5,
+            "shadow.stroke": true,
+            "shadow.fill": true,
+            "shadow.color": "#fffd04ff"
+        },
+        {
+            "type": "Container",
+            "id": "0b20fae7-27af-441f-aa04-ef0fe43af3df",
+            "label": "runButton",
+            "scope": "CLASS",
+            "components": [],
+            "x": 165,
+            "y": 757,
+            "scaleX": 0.4520380394943242,
+            "scaleY": 0.4520380394943242,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "30ad0780-5d33-4924-9833-ad5c711af02a",
+                    "label": "iconHolderBlue1",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "iconHolderBlue"
+                    }
+                },
+                {
+                    "type": "Image",
+                    "id": "4f533107-6af5-4d4c-be16-f35e4b58296b",
+                    "label": "runIcon",
+                    "components": [],
+                    "texture": {
+                        "key": "runIcon"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "b7dd18ed-0c08-4590-b37b-38ae440065e3",
+            "label": "jumpButton",
+            "scope": "CLASS",
+            "components": [],
+            "x": 1435,
+            "y": 757,
+            "scaleX": 0.4520380394943242,
+            "scaleY": 0.4520380394943242,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "f8265348-b5b1-4650-9e22-22741c4aa0bd",
+                    "label": "iconHolderBlue_1",
+                    "components": [],
+                    "texture": {
+                        "key": "iconHolderBlue"
+                    },
+                    "x": -1
+                },
+                {
+                    "type": "Image",
+                    "id": "a4aa3d4c-2587-4976-a646-f00caa18edb3",
+                    "label": "jumpIcon",
+                    "components": [],
+                    "texture": {
+                        "key": "jumpIcon"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "7db03435-0ee0-49b6-9d90-9ae564a75dc8",
+            "label": "stopButton",
+            "scope": "CLASS",
+            "components": [],
+            "x": 1170,
+            "y": 757,
+            "scaleX": 0.4520380394943242,
+            "scaleY": 0.4520380394943242,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "5f91208d-85c4-48fc-908a-fdb363f87f63",
+                    "label": "iconHolderBlue_2",
+                    "components": [],
+                    "texture": {
+                        "key": "iconHolderBlue"
+                    }
+                },
+                {
+                    "type": "Image",
+                    "id": "448ecb32-c13a-4168-9b4f-b3db39e5c030",
+                    "label": "stop",
+                    "components": [],
+                    "texture": {
+                        "key": "stop"
+                    }
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "ff6bbe2a-ec0c-4fd9-bc6b-32eccd804e67",
+            "label": "stopLight",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "greenStopLight"
+            },
+            "x": 800,
+            "y": 67,
+            "scaleX": 0.25,
+            "scaleY": 0.25
+        },
+        {
+            "type": "Rectangle",
+            "id": "dfdcd4e7-91ab-4692-b6a6-4142b07280e4",
+            "label": "bottomPlatform",
+            "scope": "CLASS",
+            "components": [],
+            "x": 808,
+            "y": 653.5,
+            "visible": false,
+            "isFilled": true,
+            "width": 1700,
+            "height": 128
+        },
+        {
+            "prefabId": "c0ac6a65-5a11-45cf-a74e-503024a2bde9",
+            "id": "0d0a14b5-a12a-4b49-832e-4aa76a11553a",
+            "unlock": [
+                "x",
+                "y",
+                "angle"
+            ],
+            "label": "sawPendulum1",
+            "scope": "CLASS",
+            "components": [],
+            "x": 795,
+            "y": -391,
+            "angle": -100,
+            "nestedPrefabs": []
+        },
+        {
+            "type": "Container",
+            "id": "cf4c366c-2a99-4998-a7c2-255bfec74274",
+            "label": "flagpole",
+            "scope": "CLASS",
+            "components": [],
+            "x": 5157,
+            "y": -522,
+            "list": [
+                {
+                    "type": "TileSprite",
+                    "id": "50a68f04-88d4-4a80-9923-249f2d973e10",
+                    "label": "gold_post_repeating_png_1",
+                    "components": [],
+                    "texture": {
+                        "key": "goldFlag",
+                        "frame": "gold_post_repeating.png"
+                    },
+                    "x": 331.666748046875,
+                    "y": 958,
+                    "scaleX": 0.6447029252720683,
+                    "angle": 90,
+                    "width": 2850,
+                    "height": 95
+                },
+                {
+                    "type": "Image",
+                    "id": "a272b820-a996-47c1-bfa1-de7f6e34a4b0",
+                    "label": "gold_post_base_png",
+                    "components": [],
+                    "texture": {
+                        "key": "goldFlag",
+                        "frame": "gold_post_base.png"
+                    },
+                    "x": 331.666748046875,
+                    "y": 1911,
+                    "scaleX": 0.888603227395533
+                },
+                {
+                    "type": "Image",
+                    "id": "ae1b135b-1a73-4f20-b50f-d9f3a3cf3e65",
+                    "label": "flagpoleTop",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "goldFlag",
+                        "frame": "gold_post_top.png"
+                    },
+                    "x": 331.666748046875,
+                    "scaleX": 0.8114345134125502
+                },
+                {
+                    "type": "Sprite",
+                    "id": "435e8f17-ea6c-4ce3-9202-465c712a2e91",
+                    "label": "flag",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "goldFlag",
+                        "frame": "square_flag_01.png"
+                    },
+                    "y": 1579,
+                    "flipX": true
+                }
+            ]
+        },
+        {
+            "prefabId": "b717faae-c43c-4a3e-9482-19806bf6e3ed",
+            "id": "98bed3b0-3340-4a19-a413-857a65039edc",
+            "unlock": [
+                "x",
+                "y"
+            ],
+            "label": "redLightGreenLightPlatform1",
+            "scope": "CLASS",
+            "components": [],
+            "x": 468,
+            "y": -113,
+            "nestedPrefabs": []
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

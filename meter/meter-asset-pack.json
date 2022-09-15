@@ -1,0 +1,78 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/meter/meter_icon_holder_blue.png",
+                "type": "image",
+                "key": "iconHolderBlue"
+            },
+            {
+                "url": "assets/meter/jump.png",
+                "type": "image",
+                "key": "jumpIcon"
+            },
+            {
+                "url": "assets/meter/meter_bar_center-repeating_green.png",
+                "type": "image",
+                "key": "meter_bar_center-repeating_green"
+            },
+            {
+                "url": "assets/meter/meter_bar_holder_center-repeating_green.png",
+                "type": "image",
+                "key": "meter_bar_holder_center-repeating_green"
+            },
+            {
+                "url": "assets/meter/meter_bar_holder_left_edge_green.png",
+                "type": "image",
+                "key": "meter_bar_holder_left_edge_green"
+            },
+            {
+                "url": "assets/meter/meter_bar_left_edge_green.png",
+                "type": "image",
+                "key": "meter_bar_left_edge_green"
+            },
+            {
+                "url": "assets/meter/meter_bar_right_edge_green.png",
+                "type": "image",
+                "key": "meter_bar_right_edge_green"
+            },
+            {
+                "url": "assets/meter/meter_text_background_center_repeating_green.png",
+                "type": "image",
+                "key": "meter_text_background_center_repeating_green"
+            },
+            {
+                "url": "assets/meter/meter_text_background_green.png",
+                "type": "image",
+                "key": "meter_text_background_green"
+            },
+            {
+                "url": "assets/meter/meter_text_background_left_edge_green.png",
+                "type": "image",
+                "key": "meter_text_background_left_edge_green"
+            },
+            {
+                "url": "assets/meter/meter_text_background_right_edge_green.png",
+                "type": "image",
+                "key": "meter_text_background_right_edge_green"
+            },
+            {
+                "url": "assets/meter/run.png",
+                "type": "image",
+                "key": "runIcon"
+            },
+            {
+                "url": "assets/meter/stop.png",
+                "type": "image",
+                "key": "stop"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

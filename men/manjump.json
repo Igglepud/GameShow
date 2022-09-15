@@ -1,0 +1,335 @@
+{
+	"textures": [
+		{
+			"image": "manjump.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1190,
+				"h": 1737
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "manjump_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 38,
+						"y": 38,
+						"w": 344,
+						"h": 466
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 344,
+						"h": 466
+					}
+				},
+				{
+					"filename": "manjump_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 21,
+						"w": 389,
+						"h": 384
+					},
+					"frame": {
+						"x": 347,
+						"y": 1,
+						"w": 389,
+						"h": 384
+					}
+				},
+				{
+					"filename": "manjump_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 30,
+						"y": 22,
+						"w": 368,
+						"h": 389
+					},
+					"frame": {
+						"x": 738,
+						"y": 1,
+						"w": 368,
+						"h": 389
+					}
+				},
+				{
+					"filename": "manjump_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 62,
+						"y": 26,
+						"w": 300,
+						"h": 477
+					},
+					"frame": {
+						"x": 347,
+						"y": 387,
+						"w": 300,
+						"h": 477
+					}
+				},
+				{
+					"filename": "manjump_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 31,
+						"y": 24,
+						"w": 331,
+						"h": 414
+					},
+					"frame": {
+						"x": 1,
+						"y": 469,
+						"w": 331,
+						"h": 414
+					}
+				},
+				{
+					"filename": "manjump_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 32,
+						"y": 23,
+						"w": 351,
+						"h": 397
+					},
+					"frame": {
+						"x": 334,
+						"y": 866,
+						"w": 351,
+						"h": 397
+					}
+				},
+				{
+					"filename": "manjump_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 66,
+						"y": 75,
+						"w": 304,
+						"h": 448
+					},
+					"frame": {
+						"x": 649,
+						"y": 392,
+						"w": 304,
+						"h": 448
+					}
+				},
+				{
+					"filename": "manjump_013.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 112,
+						"w": 234,
+						"h": 435
+					},
+					"frame": {
+						"x": 1,
+						"y": 885,
+						"w": 234,
+						"h": 435
+					}
+				},
+				{
+					"filename": "manjump_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 113,
+						"w": 234,
+						"h": 434
+					},
+					"frame": {
+						"x": 955,
+						"y": 392,
+						"w": 234,
+						"h": 434
+					}
+				},
+				{
+					"filename": "manjump_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 56,
+						"w": 205,
+						"h": 483
+					},
+					"frame": {
+						"x": 955,
+						"y": 828,
+						"w": 205,
+						"h": 483
+					}
+				},
+				{
+					"filename": "manjump_012.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 105,
+						"y": 128,
+						"w": 240,
+						"h": 412
+					},
+					"frame": {
+						"x": 687,
+						"y": 842,
+						"w": 240,
+						"h": 412
+					}
+				},
+				{
+					"filename": "manjump_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 106,
+						"y": 127,
+						"w": 238,
+						"h": 415
+					},
+					"frame": {
+						"x": 687,
+						"y": 1256,
+						"w": 238,
+						"h": 415
+					}
+				},
+				{
+					"filename": "manjump_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 109,
+						"y": 133,
+						"w": 238,
+						"h": 409
+					},
+					"frame": {
+						"x": 927,
+						"y": 1313,
+						"w": 238,
+						"h": 409
+					}
+				},
+				{
+					"filename": "manjump_014.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 118,
+						"y": 92,
+						"w": 215,
+						"h": 456
+					},
+					"frame": {
+						"x": 237,
+						"y": 1265,
+						"w": 215,
+						"h": 456
+					}
+				},
+				{
+					"filename": "manjump_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 411,
+						"h": 548
+					},
+					"spriteSourceSize": {
+						"x": 127,
+						"y": 72,
+						"w": 196,
+						"h": 471
+					},
+					"frame": {
+						"x": 454,
+						"y": 1265,
+						"w": 196,
+						"h": 471
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:f6de9e47dcab09b1444c53d1b7ea216d:8bc19e4f469129487d879af9ebbf572b:dd55f768e30c02b3c5baca90782b9bb5$"
+	}
+}

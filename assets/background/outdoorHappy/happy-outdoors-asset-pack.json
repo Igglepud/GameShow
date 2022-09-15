@@ -1,0 +1,71 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/background/outdoorHappy/box.png",
+                "type": "image",
+                "key": "box"
+            },
+            {
+                "url": "assets/background/outdoorHappy/cloud_01.png",
+                "type": "image",
+                "key": "cloud_01"
+            },
+            {
+                "url": "assets/background/outdoorHappy/colud.png",
+                "type": "image",
+                "key": "colud"
+            },
+            {
+                "atlasURL": "assets/background/outdoorHappy/goldFlag.json",
+                "textureURL": "assets/background/outdoorHappy/goldFlag.png",
+                "type": "atlas",
+                "key": "goldFlag"
+            },
+            {
+                "url": "assets/background/outdoorHappy/stage middel.png",
+                "type": "image",
+                "key": "happyMiddle"
+            },
+            {
+                "url": "assets/background/outdoorHappy/land.png",
+                "type": "image",
+                "key": "land"
+            },
+            {
+                "url": "assets/background/outdoorHappy/land2.png",
+                "type": "image",
+                "key": "land2"
+            },
+            {
+                "url": [
+                    "assets/background/outdoorHappy/machinerynoise.wav"
+                ],
+                "type": "audio",
+                "key": "machineryNoise"
+            },
+            {
+                "url": "assets/background/outdoorHappy/rainbow.png",
+                "type": "image",
+                "key": "rainbow"
+            },
+            {
+                "url": "assets/background/outdoorHappy/sky.png",
+                "type": "image",
+                "key": "sky"
+            },
+            {
+                "url": "assets/background/outdoorHappy/sun.png",
+                "type": "image",
+                "key": "sun"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

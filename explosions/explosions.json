@@ -1,0 +1,73 @@
+{
+    "anims": [
+        {
+            "key": "yellowPlumeExplosion",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "plumeYellowExplosion",
+                    "frame": "plume_explode_01_yellow_09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "showOnStart": true,
+            "hideOnComplete": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,459 @@
+{
+    "anims": [
+        {
+            "key": "host_idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_017.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_018.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_019.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_020.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_021.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_022.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_023.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_024.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_025.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostidle",
+                    "frame": "hostidle_026.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "man_idle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_012.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_013.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_014.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_015.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_016.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manidle",
+                    "frame": "__office_worker_idle_017.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "man_walk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "manwalk",
+                    "frame": "manwalk_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "host_walk",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_000.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_001.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_002.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_003.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_004.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_005.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_006.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_007.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_008.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_009.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_010.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "hostwalk",
+                    "frame": "hostwalk_011.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

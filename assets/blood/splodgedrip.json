@@ -1,0 +1,251 @@
+{
+	"textures": [
+		{
+			"image": "splodgedrip.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 983,
+				"h": 1889
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blood_splodge_drip_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 153,
+						"y": 80,
+						"w": 155,
+						"h": 148
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 155,
+						"h": 148
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 399,
+						"h": 271
+					},
+					"frame": {
+						"x": 158,
+						"y": 1,
+						"w": 399,
+						"h": 271
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 404,
+						"h": 343
+					},
+					"frame": {
+						"x": 559,
+						"y": 1,
+						"w": 404,
+						"h": 343
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 11,
+						"w": 404,
+						"h": 384
+					},
+					"frame": {
+						"x": 1,
+						"y": 274,
+						"w": 404,
+						"h": 384
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 15,
+						"w": 352,
+						"h": 421
+					},
+					"frame": {
+						"x": 407,
+						"y": 346,
+						"w": 352,
+						"h": 421
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 15,
+						"w": 352,
+						"h": 486
+					},
+					"frame": {
+						"x": 1,
+						"y": 660,
+						"w": 352,
+						"h": 486
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 56,
+						"w": 313,
+						"h": 504
+					},
+					"frame": {
+						"x": 355,
+						"y": 769,
+						"w": 313,
+						"h": 504
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 58,
+						"w": 312,
+						"h": 525
+					},
+					"frame": {
+						"x": 670,
+						"y": 769,
+						"w": 312,
+						"h": 525
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 56,
+						"w": 313,
+						"h": 551
+					},
+					"frame": {
+						"x": 1,
+						"y": 1148,
+						"w": 313,
+						"h": 551
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 57,
+						"w": 313,
+						"h": 592
+					},
+					"frame": {
+						"x": 316,
+						"y": 1275,
+						"w": 313,
+						"h": 592
+					}
+				},
+				{
+					"filename": "blood_splodge_drip_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 461,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 57,
+						"w": 313,
+						"h": 592
+					},
+					"frame": {
+						"x": 631,
+						"y": 1296,
+						"w": 313,
+						"h": 592
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:95bc99c4219300370de8cd1d0a2f85d0:2daf1edfb7c74696150ac237d0a45ded:bae908aa0dbed72e3656ec40729fb989$"
+	}
+}

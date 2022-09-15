@@ -1,0 +1,220 @@
+{
+	"textures": [
+		{
+			"image": "plumeYellowExplosion-0.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2000,
+				"h": 1959
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "plume_explode_01_yellow_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1040,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 22,
+						"y": 20,
+						"w": 1008,
+						"h": 1002
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 1008,
+						"h": 1002
+					}
+				},
+				{
+					"filename": "plume_explode_01_yellow_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1040,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 23,
+						"w": 988,
+						"h": 978
+					},
+					"frame": {
+						"x": 1011,
+						"y": 1,
+						"w": 988,
+						"h": 978
+					}
+				},
+				{
+					"filename": "plume_explode_01_yellow_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1040,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 29,
+						"y": 27,
+						"w": 986,
+						"h": 977
+					},
+					"frame": {
+						"x": 1011,
+						"y": 981,
+						"w": 986,
+						"h": 977
+					}
+				},
+				{
+					"filename": "plume_explode_01_yellow_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1040,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 82,
+						"y": 72,
+						"w": 875,
+						"h": 880
+					},
+					"frame": {
+						"x": 1,
+						"y": 1005,
+						"w": 875,
+						"h": 880
+					}
+				},
+				{
+					"filename": "plume_explode_01_yellow_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 476,
+						"y": 475,
+						"w": 95,
+						"h": 98
+					},
+					"frame": {
+						"x": 878,
+						"y": 1005,
+						"w": 95,
+						"h": 98
+					}
+				}
+			]
+		},
+		{
+			"image": "plumeYellowExplosion-1.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1415,
+				"h": 1544
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "plume_explode_01_yellow_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 93,
+						"y": 102,
+						"w": 843,
+						"h": 833
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 843,
+						"h": 833
+					}
+				},
+				{
+					"filename": "plume_explode_01_yellow_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1040,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 168,
+						"w": 721,
+						"h": 707
+					},
+					"frame": {
+						"x": 1,
+						"y": 836,
+						"w": 721,
+						"h": 707
+					}
+				},
+				{
+					"filename": "plume_explode_01_yellow_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 179,
+						"y": 213,
+						"w": 690,
+						"h": 664
+					},
+					"frame": {
+						"x": 724,
+						"y": 836,
+						"w": 690,
+						"h": 664
+					}
+				},
+				{
+					"filename": "plume_explode_01_yellow_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 1024,
+						"h": 1024
+					},
+					"spriteSourceSize": {
+						"x": 290,
+						"y": 320,
+						"w": 421,
+						"h": 402
+					},
+					"frame": {
+						"x": 846,
+						"y": 1,
+						"w": 421,
+						"h": 402
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:96aad8928837eb0ff2494e5e3fd38f36:5233ff0eeb490218e6c6bad7f040ae80:fc55ea32b033320f376fccd8b754c27d$"
+	}
+}

@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "manwalk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 876,
+				"h": 1409
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "manwalk_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 19,
+						"y": 6,
+						"w": 225,
+						"h": 459
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 225,
+						"h": 459
+					}
+				},
+				{
+					"filename": "manwalk_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 6,
+						"w": 233,
+						"h": 461
+					},
+					"frame": {
+						"x": 228,
+						"y": 1,
+						"w": 233,
+						"h": 461
+					}
+				},
+				{
+					"filename": "manwalk_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 40,
+						"y": 6,
+						"w": 199,
+						"h": 462
+					},
+					"frame": {
+						"x": 463,
+						"y": 1,
+						"w": 199,
+						"h": 462
+					}
+				},
+				{
+					"filename": "manwalk_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 3,
+						"w": 197,
+						"h": 463
+					},
+					"frame": {
+						"x": 664,
+						"y": 1,
+						"w": 197,
+						"h": 463
+					}
+				},
+				{
+					"filename": "manwalk_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 6,
+						"w": 212,
+						"h": 463
+					},
+					"frame": {
+						"x": 1,
+						"y": 462,
+						"w": 212,
+						"h": 463
+					}
+				},
+				{
+					"filename": "manwalk_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 3,
+						"w": 197,
+						"h": 464
+					},
+					"frame": {
+						"x": 215,
+						"y": 464,
+						"w": 197,
+						"h": 464
+					}
+				},
+				{
+					"filename": "manwalk_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 0,
+						"w": 197,
+						"h": 467
+					},
+					"frame": {
+						"x": 414,
+						"y": 465,
+						"w": 197,
+						"h": 467
+					}
+				},
+				{
+					"filename": "manwalk_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 3,
+						"w": 262,
+						"h": 468
+					},
+					"frame": {
+						"x": 613,
+						"y": 466,
+						"w": 262,
+						"h": 468
+					}
+				},
+				{
+					"filename": "manwalk_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 42,
+						"y": 0,
+						"w": 197,
+						"h": 471
+					},
+					"frame": {
+						"x": 1,
+						"y": 927,
+						"w": 197,
+						"h": 471
+					}
+				},
+				{
+					"filename": "manwalk_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 34,
+						"y": 0,
+						"w": 205,
+						"h": 472
+					},
+					"frame": {
+						"x": 200,
+						"y": 930,
+						"w": 205,
+						"h": 472
+					}
+				},
+				{
+					"filename": "manwalk_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 14,
+						"y": 3,
+						"w": 249,
+						"h": 469
+					},
+					"frame": {
+						"x": 407,
+						"y": 936,
+						"w": 249,
+						"h": 469
+					}
+				},
+				{
+					"filename": "manwalk_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 268,
+						"h": 476
+					},
+					"spriteSourceSize": {
+						"x": 24,
+						"y": 0,
+						"w": 216,
+						"h": 472
+					},
+					"frame": {
+						"x": 658,
+						"y": 936,
+						"w": 216,
+						"h": 472
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:543ff64fc315678a9a499a5885394dc2:53798ae13d363f558cab084105afe556:f23c8152584f45e5d122758884ae565d$"
+	}
+}

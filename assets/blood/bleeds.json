@@ -1,0 +1,641 @@
+{
+    "anims": [
+        {
+            "key": "bleed_burst",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "burst",
+                    "frame": "blood_burst_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "burst",
+                    "frame": "blood_burst_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "burst",
+                    "frame": "blood_burst_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "burst",
+                    "frame": "blood_burst_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "burst",
+                    "frame": "blood_burst_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "burst",
+                    "frame": "blood_burst_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_exit",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "exitwound",
+                    "frame": "blood_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "exitwound",
+                    "frame": "blood_12.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_entry_wound",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "entrywound",
+                    "frame": "entry_wound_red_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "entrywound",
+                    "frame": "entry_wound_red_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "entrywound",
+                    "frame": "entry_wound_red_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "entrywound",
+                    "frame": "entry_wound_red_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "entrywound",
+                    "frame": "entry_wound_red_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_ring",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "ring",
+                    "frame": "blood_ring_red_09.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_blood_slash",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "slash",
+                    "frame": "blood_slash_10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_blood_spatter",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spatter",
+                    "frame": "blood_spatter_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spatter",
+                    "frame": "blood_spatter_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spatter",
+                    "frame": "blood_spatter_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spatter",
+                    "frame": "blood_spatter_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spatter",
+                    "frame": "blood_spatter_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spatter",
+                    "frame": "blood_spatter_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spatter",
+                    "frame": "blood_spatter_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_blood_splodge",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodge",
+                    "frame": "blood_splodge_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_blood_splodge_drip",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splodgedrip",
+                    "frame": "blood_splodge_drip_11.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_splatter_drip_red",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "splatter",
+                    "frame": "splatter_drip_red_10.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        },
+        {
+            "key": "bleed_blood_1",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spurt",
+                    "frame": "blood_01.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_02.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_03.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_04.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_05.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_06.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_07.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_08.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_09.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_10.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_11.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_12.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_13.png",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spurt",
+                    "frame": "blood_14.png",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

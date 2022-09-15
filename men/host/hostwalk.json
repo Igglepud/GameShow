@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "hostwalk.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 789,
+				"h": 1959
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hostwalk_006.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 3,
+						"y": 8,
+						"w": 267,
+						"h": 490
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 267,
+						"h": 490
+					}
+				},
+				{
+					"filename": "hostwalk_011.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 5,
+						"w": 258,
+						"h": 494
+					},
+					"frame": {
+						"x": 270,
+						"y": 1,
+						"w": 258,
+						"h": 494
+					}
+				},
+				{
+					"filename": "hostwalk_005.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 258,
+						"h": 493
+					},
+					"frame": {
+						"x": 1,
+						"y": 493,
+						"w": 258,
+						"h": 493
+					}
+				},
+				{
+					"filename": "hostwalk_010.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 5,
+						"w": 258,
+						"h": 493
+					},
+					"frame": {
+						"x": 530,
+						"y": 1,
+						"w": 258,
+						"h": 493
+					}
+				},
+				{
+					"filename": "hostwalk_000.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 9,
+						"w": 258,
+						"h": 489
+					},
+					"frame": {
+						"x": 530,
+						"y": 496,
+						"w": 258,
+						"h": 489
+					}
+				},
+				{
+					"filename": "hostwalk_004.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 5,
+						"w": 258,
+						"h": 488
+					},
+					"frame": {
+						"x": 261,
+						"y": 497,
+						"w": 258,
+						"h": 488
+					}
+				},
+				{
+					"filename": "hostwalk_001.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 10,
+						"y": 12,
+						"w": 261,
+						"h": 482
+					},
+					"frame": {
+						"x": 261,
+						"y": 987,
+						"w": 261,
+						"h": 482
+					}
+				},
+				{
+					"filename": "hostwalk_003.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 258,
+						"h": 485
+					},
+					"frame": {
+						"x": 1,
+						"y": 988,
+						"w": 258,
+						"h": 485
+					}
+				},
+				{
+					"filename": "hostwalk_009.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 8,
+						"w": 258,
+						"h": 485
+					},
+					"frame": {
+						"x": 261,
+						"y": 1471,
+						"w": 258,
+						"h": 485
+					}
+				},
+				{
+					"filename": "hostwalk_008.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 258,
+						"h": 483
+					},
+					"frame": {
+						"x": 1,
+						"y": 1475,
+						"w": 258,
+						"h": 483
+					}
+				},
+				{
+					"filename": "hostwalk_002.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 13,
+						"y": 12,
+						"w": 258,
+						"h": 484
+					},
+					"frame": {
+						"x": 521,
+						"y": 1471,
+						"w": 258,
+						"h": 484
+					}
+				},
+				{
+					"filename": "hostwalk_007.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 272,
+						"h": 503
+					},
+					"spriteSourceSize": {
+						"x": 12,
+						"y": 12,
+						"w": 258,
+						"h": 480
+					},
+					"frame": {
+						"x": 524,
+						"y": 987,
+						"w": 258,
+						"h": 480
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:c22a5873a0b78f5949efd6094c0a038a:c00f8c5f6a57ff00058966e266e32f7c:811a5f074635a2f36e626c6c23c7ef7f$"
+	}
+}

@@ -1,0 +1,230 @@
+{
+	"textures": [
+		{
+			"image": "splatter.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1303,
+				"h": 3943
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "splatter_drip_red_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 109,
+						"w": 649,
+						"h": 948
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 649,
+						"h": 948
+					}
+				},
+				{
+					"filename": "splatter_drip_red_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 84,
+						"w": 650,
+						"h": 946
+					},
+					"frame": {
+						"x": 652,
+						"y": 1,
+						"w": 650,
+						"h": 946
+					}
+				},
+				{
+					"filename": "splatter_drip_red_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 109,
+						"w": 649,
+						"h": 942
+					},
+					"frame": {
+						"x": 1,
+						"y": 951,
+						"w": 649,
+						"h": 942
+					}
+				},
+				{
+					"filename": "splatter_drip_red_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 61,
+						"w": 650,
+						"h": 937
+					},
+					"frame": {
+						"x": 652,
+						"y": 949,
+						"w": 650,
+						"h": 937
+					}
+				},
+				{
+					"filename": "splatter_drip_red_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 109,
+						"w": 649,
+						"h": 930
+					},
+					"frame": {
+						"x": 1,
+						"y": 1895,
+						"w": 649,
+						"h": 930
+					}
+				},
+				{
+					"filename": "splatter_drip_red_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 61,
+						"w": 650,
+						"h": 888
+					},
+					"frame": {
+						"x": 652,
+						"y": 1888,
+						"w": 650,
+						"h": 888
+					}
+				},
+				{
+					"filename": "splatter_drip_red_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 36,
+						"y": 109,
+						"w": 649,
+						"h": 930
+					},
+					"frame": {
+						"x": 1,
+						"y": 2827,
+						"w": 649,
+						"h": 930
+					}
+				},
+				{
+					"filename": "splatter_drip_red_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 61,
+						"w": 648,
+						"h": 853
+					},
+					"frame": {
+						"x": 652,
+						"y": 2778,
+						"w": 648,
+						"h": 853
+					}
+				},
+				{
+					"filename": "splatter_drip_red_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 35,
+						"y": 611,
+						"w": 322,
+						"h": 309
+					},
+					"frame": {
+						"x": 652,
+						"y": 3633,
+						"w": 322,
+						"h": 309
+					}
+				},
+				{
+					"filename": "splatter_drip_red_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 706,
+						"h": 1063
+					},
+					"spriteSourceSize": {
+						"x": 33,
+						"y": 873,
+						"w": 117,
+						"h": 52
+					},
+					"frame": {
+						"x": 1,
+						"y": 3759,
+						"w": 117,
+						"h": 52
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:d1e2d22131479b2db3c99f2ddc9ab8ba:eefe5556cc7a74c03e4ba61509f2e9e2:05cae319d9785dd6c9529d421f78035a$"
+	}
+}

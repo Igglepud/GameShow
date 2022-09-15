@@ -1,0 +1,41 @@
+{
+    "anims": [
+        {
+            "key": "spikecolumn",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "spikecolumn",
+                    "frame": "spikecolumn1",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spikecolumn",
+                    "frame": "spikecolumn2",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spikecolumn",
+                    "frame": "spikecolumn3",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "spikecolumn",
+                    "frame": "spikecolumn4",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 15,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

@@ -1,0 +1,188 @@
+{
+	"textures": [
+		{
+			"image": "splodge.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1895,
+				"h": 1131
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blood_splodge_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 665
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 644,
+						"h": 652
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 644,
+						"h": 652
+					}
+				},
+				{
+					"filename": "blood_splodge_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 101,
+						"y": 124,
+						"w": 447,
+						"h": 428
+					},
+					"frame": {
+						"x": 1,
+						"y": 655,
+						"w": 447,
+						"h": 428
+					}
+				},
+				{
+					"filename": "blood_splodge_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 170,
+						"y": 192,
+						"w": 316,
+						"h": 303
+					},
+					"frame": {
+						"x": 450,
+						"y": 655,
+						"w": 316,
+						"h": 303
+					}
+				},
+				{
+					"filename": "blood_splodge_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 15,
+						"y": 13,
+						"w": 633,
+						"h": 630
+					},
+					"frame": {
+						"x": 647,
+						"y": 1,
+						"w": 633,
+						"h": 630
+					}
+				},
+				{
+					"filename": "blood_splodge_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 29,
+						"w": 612,
+						"h": 596
+					},
+					"frame": {
+						"x": 1282,
+						"y": 1,
+						"w": 612,
+						"h": 596
+					}
+				},
+				{
+					"filename": "blood_splodge_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 49,
+						"y": 71,
+						"w": 555,
+						"h": 531
+					},
+					"frame": {
+						"x": 1282,
+						"y": 599,
+						"w": 555,
+						"h": 531
+					}
+				},
+				{
+					"filename": "blood_splodge_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 262,
+						"y": 277,
+						"w": 139,
+						"h": 131
+					},
+					"frame": {
+						"x": 450,
+						"y": 960,
+						"w": 139,
+						"h": 131
+					}
+				},
+				{
+					"filename": "blood_splodge_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 663,
+						"h": 663
+					},
+					"spriteSourceSize": {
+						"x": 225,
+						"y": 245,
+						"w": 213,
+						"h": 204
+					},
+					"frame": {
+						"x": 768,
+						"y": 633,
+						"w": 213,
+						"h": 204
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:e9b2b34c0e55809398087a82ca851c41:77a402e24ec50f120784a75667d08730:b4452dc2230319cb5af0e27f9410899b$"
+	}
+}

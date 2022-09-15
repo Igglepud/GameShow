@@ -1,0 +1,43 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/explosions/digitalDynamite.png",
+                "type": "image",
+                "key": "digitalDynamite"
+            },
+            {
+                "url": [
+                    "assets/audio/explosion1.wav"
+                ],
+                "type": "audio",
+                "key": "explosion1"
+            },
+            {
+                "url": "assets/explosions/explosions.json",
+                "type": "animation",
+                "key": "explosions"
+            },
+            {
+                "url": [
+                    "assets/audio/explosivealarm.wav"
+                ],
+                "type": "audio",
+                "key": "explosivealarm"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/explosions/plumeYellowExplosion.json",
+                "path": "assets/explosions",
+                "key": "plumeYellowExplosion"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}

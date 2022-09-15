@@ -1,0 +1,267 @@
+{
+    "anims": [
+        {
+            "key": "babyIdle",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_0",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_01",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_02",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_03",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_04",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_05",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_06",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_07",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_08",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_09",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_10",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_11",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_12",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_13",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_14",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_15",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_16",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_17",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_18",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_19",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyIdle",
+                    "frame": "idle_20",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        },
+        {
+            "key": "babyCrawl",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_20",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_21",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_22",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_23",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_24",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_25",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_26",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_27",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_28",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_29",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_30",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_31",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_32",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_33",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_34",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_35",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_36",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_37",
+                    "duration": 0,
+                    "keyframe": false
+                },
+                {
+                    "key": "babyCrawl",
+                    "frame": "crawl_19",
+                    "duration": 0,
+                    "keyframe": false
+                }
+            ],
+            "frameRate": 24,
+            "skipMissedFrames": true,
+            "repeat": -1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

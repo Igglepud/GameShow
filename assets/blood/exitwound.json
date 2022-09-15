@@ -1,0 +1,272 @@
+{
+	"textures": [
+		{
+			"image": "exitwound.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 2018,
+				"h": 974
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "blood_10.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 9,
+						"y": 15,
+						"w": 634,
+						"h": 493
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 634,
+						"h": 493
+					}
+				},
+				{
+					"filename": "blood_09.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 20,
+						"y": 30,
+						"w": 623,
+						"h": 477
+					},
+					"frame": {
+						"x": 1,
+						"y": 496,
+						"w": 623,
+						"h": 477
+					}
+				},
+				{
+					"filename": "blood_08.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 97,
+						"y": 51,
+						"w": 508,
+						"h": 460
+					},
+					"frame": {
+						"x": 626,
+						"y": 496,
+						"w": 508,
+						"h": 460
+					}
+				},
+				{
+					"filename": "blood_11.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 27,
+						"y": 107,
+						"w": 628,
+						"h": 402
+					},
+					"frame": {
+						"x": 637,
+						"y": 1,
+						"w": 628,
+						"h": 402
+					}
+				},
+				{
+					"filename": "blood_02.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 303,
+						"y": 424,
+						"w": 130,
+						"h": 84
+					},
+					"frame": {
+						"x": 637,
+						"y": 405,
+						"w": 130,
+						"h": 84
+					}
+				},
+				{
+					"filename": "blood_01.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 330,
+						"y": 459,
+						"w": 71,
+						"h": 47
+					},
+					"frame": {
+						"x": 769,
+						"y": 405,
+						"w": 71,
+						"h": 47
+					}
+				},
+				{
+					"filename": "blood_12.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 25,
+						"y": 118,
+						"w": 640,
+						"h": 391
+					},
+					"frame": {
+						"x": 1267,
+						"y": 1,
+						"w": 640,
+						"h": 391
+					}
+				},
+				{
+					"filename": "blood_07.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 120,
+						"y": 137,
+						"w": 460,
+						"h": 375
+					},
+					"frame": {
+						"x": 1136,
+						"y": 405,
+						"w": 460,
+						"h": 375
+					}
+				},
+				{
+					"filename": "blood_06.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 151,
+						"y": 192,
+						"w": 419,
+						"h": 317
+					},
+					"frame": {
+						"x": 1598,
+						"y": 394,
+						"w": 419,
+						"h": 317
+					}
+				},
+				{
+					"filename": "blood_05.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 198,
+						"y": 281,
+						"w": 329,
+						"h": 227
+					},
+					"frame": {
+						"x": 1598,
+						"y": 713,
+						"w": 329,
+						"h": 227
+					}
+				},
+				{
+					"filename": "blood_04.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 258,
+						"y": 361,
+						"w": 214,
+						"h": 147
+					},
+					"frame": {
+						"x": 1136,
+						"y": 782,
+						"w": 214,
+						"h": 147
+					}
+				},
+				{
+					"filename": "blood_03.png",
+					"rotated": false,
+					"trimmed": true,
+					"sourceSize": {
+						"w": 685,
+						"h": 512
+					},
+					"spriteSourceSize": {
+						"x": 293,
+						"y": 406,
+						"w": 146,
+						"h": 102
+					},
+					"frame": {
+						"x": 1352,
+						"y": 782,
+						"w": 146,
+						"h": 102
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:6e04f470932ba3a1e5a94f15d67bb3a7:de336322e6870f5c435cea2c148a8884:d68e2536818f9e72f27a8758cfb4c901$"
+	}
+}

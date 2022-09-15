@@ -1,0 +1,94 @@
+{
+    "id": "b717faae-c43c-4a3e-9482-19806bf6e3ed",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "3c7a6261-d55c-4df7-8677-65877c7fd928",
+            "label": "container_1",
+            "components": [],
+            "list": [
+                {
+                    "type": "TileSprite",
+                    "id": "9f0e28a0-8e38-4b4d-8a5d-fa16dc4f56d9",
+                    "label": "base",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "box"
+                    },
+                    "x": 8,
+                    "y": 612,
+                    "width": 324,
+                    "height": 108
+                },
+                {
+                    "prefabId": "22e6e907-999d-416b-bfea-6ab05777204a",
+                    "id": "f8b93f0c-5b11-4bba-bfd1-b51fb25d28ce",
+                    "unlock": [
+                        "x",
+                        "y",
+                        "scaleX",
+                        "scaleY"
+                    ],
+                    "label": "spikes",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 5,
+                    "y": 427,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5,
+                    "nestedPrefabs": []
+                },
+                {
+                    "type": "Image",
+                    "id": "b77835c3-4816-4a70-b825-64d5518db89a",
+                    "label": "money",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "smaller_heap"
+                    },
+                    "x": 8,
+                    "y": 518,
+                    "scaleX": 0.25,
+                    "scaleY": 0.25
+                },
+                {
+                    "prefabId": "c0ac6a65-5a11-45cf-a74e-503024a2bde9",
+                    "id": "2137fdf4-b70b-43da-8f0b-3d97f0d6be60",
+                    "unlock": [
+                        "x",
+                        "y",
+                        "scaleX",
+                        "scaleY",
+                        "angle"
+                    ],
+                    "label": "pendulum",
+                    "scope": "CLASS",
+                    "components": [],
+                    "x": 0,
+                    "y": 0,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5,
+                    "angle": -90,
+                    "nestedPrefabs": []
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

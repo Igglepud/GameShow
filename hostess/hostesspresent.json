@@ -1,0 +1,293 @@
+{
+	"textures": [
+		{
+			"image": "hostesspresent.png",
+			"format": "RGBA8888",
+			"size": {
+				"w": 1196,
+				"h": 1880
+			},
+			"scale": 1,
+			"frames": [
+				{
+					"filename": "hostesspresent_000.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 1,
+						"y": 1,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_001.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 1,
+						"y": 471,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_002.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 1,
+						"y": 941,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_003.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 1,
+						"y": 1411,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_004.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 300,
+						"y": 1,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_005.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 300,
+						"y": 471,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_006.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 300,
+						"y": 941,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_007.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 300,
+						"y": 1411,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_008.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 599,
+						"y": 1,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_009.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 599,
+						"y": 471,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_010.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 599,
+						"y": 941,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_011.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 599,
+						"y": 1411,
+						"w": 297,
+						"h": 468
+					}
+				},
+				{
+					"filename": "hostesspresent_012.png",
+					"rotated": false,
+					"trimmed": false,
+					"sourceSize": {
+						"w": 297,
+						"h": 468
+					},
+					"spriteSourceSize": {
+						"x": 0,
+						"y": 0,
+						"w": 297,
+						"h": 468
+					},
+					"frame": {
+						"x": 898,
+						"y": 1,
+						"w": 297,
+						"h": 468
+					}
+				}
+			]
+		}
+	],
+	"meta": {
+		"app": "https://www.codeandweb.com/texturepacker",
+		"version": "3.0",
+		"smartupdate": "$TexturePacker:SmartUpdate:9b49289d2a262c2cb59acb8833ec3bd4:6d2783b110c72f9c0e44f78478c74c34:fb4201ee110645b1365a256ce00dc2b0$"
+	}
+}

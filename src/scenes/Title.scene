@@ -1,0 +1,165 @@
+{
+    "id": "b45f22a1-cab0-4eb7-99e7-3e232b2f1299",
+    "sceneType": "SCENE",
+    "settings": {
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "Title",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "6945e7f6-06d6-47b9-a004-44bd689c4b10",
+            "label": "seats_with_audience",
+            "components": [],
+            "texture": {
+                "key": "seats_with_audience"
+            },
+            "x": 755.125,
+            "y": 443,
+            "scaleX": 0.8182269302500232,
+            "scaleY": 0.8182269302500232
+        },
+        {
+            "type": "Image",
+            "id": "0e2b0b22-4ad9-407c-a2ee-524a892cbe01",
+            "label": "stage",
+            "components": [],
+            "texture": {
+                "key": "stage"
+            },
+            "x": 722.625,
+            "y": 831
+        },
+        {
+            "type": "Image",
+            "id": "4c90a557-cf46-4849-8976-abe472b10b57",
+            "label": "overhead_light",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 1201,
+            "y": 420,
+            "angle": 16
+        },
+        {
+            "type": "Image",
+            "id": "6e42e86f-d189-456c-8421-712485866aea",
+            "label": "overhead_light_1",
+            "components": [],
+            "texture": {
+                "key": "overhead_light"
+            },
+            "x": 415,
+            "y": 400,
+            "angle": -20,
+            "flipX": true
+        },
+        {
+            "type": "Image",
+            "id": "72a8620f-b673-4bfe-95f6-cad6ac4f77b4",
+            "label": "leftDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 369,
+            "y": 449,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "5c9900cd-eed1-42c4-af21-d00fe9aba655",
+            "label": "rightDrape",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "middrapes"
+            },
+            "x": 1253,
+            "y": 449,
+            "scaleX": 9.359383313125148,
+            "scaleY": 9.359383313125148
+        },
+        {
+            "type": "Image",
+            "id": "f0a845de-369a-46da-866b-dcf915e3803f",
+            "label": "side_curtain",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 81,
+            "y": 429,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147
+        },
+        {
+            "type": "Image",
+            "id": "03fb4330-15ce-49c1-a449-fd591890fd70",
+            "label": "side_curtain_1",
+            "components": [],
+            "texture": {
+                "key": "side_curtain"
+            },
+            "x": 1523,
+            "y": 427,
+            "scaleX": 1.1096462566781147,
+            "scaleY": 1.1096462566781147,
+            "flipX": true
+        },
+        {
+            "type": "Text",
+            "id": "83dbfcd5-b770-4154-a0bd-a904f663919b",
+            "label": "titleText",
+            "components": [],
+            "x": 275.625,
+            "y": 392,
+            "text": "Tough Deci$ion$",
+            "fontFamily": "pricedown",
+            "fontSize": "128px",
+            "color": "#f8db2cff",
+            "stroke": "#2c9910ff",
+            "strokeThickness": 3,
+            "backgroundColor": "",
+            "shadow.offsetX": 3,
+            "shadow.offsetY": 3,
+            "shadow.stroke": true,
+            "shadow.fill": true,
+            "shadow.color": "#2c9910ff"
+        },
+        {
+            "type": "Text",
+            "id": "cc7eb0ad-a469-4dfe-bf49-b847a32622ee",
+            "label": "clickToStart",
+            "scope": "CLASS",
+            "components": [],
+            "x": 562.625,
+            "y": 628,
+            "text": "click to start",
+            "fontFamily": "pricedown",
+            "fontSize": "64px",
+            "color": "#f8db2cff",
+            "stroke": "#2c9910ff",
+            "strokeThickness": 3,
+            "backgroundColor": "",
+            "shadow.offsetX": 3,
+            "shadow.offsetY": 3,
+            "shadow.stroke": true,
+            "shadow.fill": true,
+            "shadow.color": "#2c9910ff"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

@@ -1,0 +1,62 @@
+{
+    "id": "c0ac6a65-5a11-45cf-a74e-503024a2bde9",
+    "sceneType": "PREFAB",
+    "settings": {
+        "preloadMethodName": "",
+        "preloadPackFiles": [],
+        "createMethodName": "",
+        "borderWidth": 1600,
+        "borderHeight": 900
+    },
+    "displayList": [
+        {
+            "type": "Container",
+            "id": "22d4243f-21f3-4118-8223-be903eba530e",
+            "label": "container",
+            "components": [
+                "swing"
+            ],
+            "x": -253.3473607736648,
+            "y": -195.35217841090554,
+            "angle": -75,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "ec29f3b5-2805-47fe-8896-69675aefca1e",
+                    "label": "saw",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "Sheet Main 02 w Shadows.png",
+                        "frame": "Saw"
+                    },
+                    "x": -365.12620120880285,
+                    "y": 862.8363886866794
+                },
+                {
+                    "type": "Image",
+                    "id": "a8ece667-3889-4a05-8bb3-7cc84f21794b",
+                    "label": "pipes",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "Pipes new.png",
+                        "frame": "Pipes new_1"
+                    },
+                    "x": -179.38987834338008,
+                    "y": 427.82832808683116,
+                    "scaleX": 0.5,
+                    "scaleY": 0.5,
+                    "angle": 23
+                }
+            ]
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 3
+    }
+}

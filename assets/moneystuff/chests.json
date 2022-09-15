@@ -1,0 +1,50 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/moneystuff/3x_small_coin_bag_light.png",
+                "type": "image",
+                "key": "3x_small_coin_bag_light"
+            },
+            {
+                "url": "assets/moneystuff/chestsOpen.json",
+                "type": "animation",
+                "key": "chestsOpen"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/moneystuff/greenChestEmpty.json",
+                "path": "assets/moneystuff",
+                "key": "greenChestEmpty"
+            },
+            {
+                "type": "multiatlas",
+                "url": "assets/moneystuff/greenChestFull.json",
+                "path": "assets/moneystuff",
+                "key": "greenChestFull"
+            },
+            {
+                "url": "assets/moneystuff/heap_1.png",
+                "type": "image",
+                "key": "heap_1"
+            },
+            {
+                "url": "assets/moneystuff/smaller_heap.png",
+                "type": "image",
+                "key": "smaller_heap"
+            },
+            {
+                "url": "assets/moneystuff/stack_no_dog_ear.png",
+                "type": "image",
+                "key": "stack_no_dog_ear"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2,
+        "showAllFilesInBlocks": false
+    }
+}
